@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\TRUI /ID:\TRUI\KRPAI 2017\coba\cmsis /ID:\TRUI\KRPAI 2017\coba /ID:\TRUI\KRPAI 2017\coba\cmsis_lib\include /ID:\TRUI\KRPAI 2017\coba\lib\Include /ID:\TRUI\KRPAI 2017\coba\cmsis_lib /ID:\TRUI\KRPAI 2017\coba\semihosting /ID:\TRUI\KRPAI 2017\coba\cmsis_boot /ID:\TRUI\KRPAI 2017\coba\lib /ID:\TRUI\KRPAI 2017">
+      <source file="..\..\..\lib\Source\lcd.c" lastModified="15e321a26f0">
+         <include file="..\..\..\main.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\timer2.c" lastModified="15e321a2711">
+         <include file="..\..\..\lib\Include\timer2.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\proximity.h" lastModified="15e321a266d">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\i2c2.h" lastModified="15e321a2645">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="15e321a2901">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15e321a2604">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_pwr.c" lastModified="15e321a260a">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_pwr.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\wall_following_kanan.c" lastModified="15e321a2733">
+         <include file="..\..\..\lib\Include\wall_following_kanan.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="15e321a257b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15e321a261e">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\color_sensor.c" lastModified="15e321a26b7">
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\menu.h" lastModified="15e321a2662">
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+         <include file="..\..\..\lib\Include\exti0.h"/>
+         <include file="..\..\..\lib\Include\kipas.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\proximity.h"/>
+         <include file="..\..\..\lib\Include\tombol.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kanan.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kiri.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\exti0.h" lastModified="15e321a2a27">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_exti.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_syscfg.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kanan.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kiri.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\menu.c" lastModified="15e321a265c">
+         <include file="..\..\..\lib\Include\menu.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15e321a25da">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\kipas.h" lastModified="15e321a2650">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="15e321a292a">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15e321a2624">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_syscfg.h" lastModified="15e321a25c1">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\uart.h" lastModified="15e52446630">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\wall_following_kiri.h" lastModified="15e321a2a92">
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\timer5.h"/>
+         <include file="..\..\..\lib\Include\proximity.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kanan.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_flash.c" lastModified="15e321a25ed">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_flash.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\srf_tpa.c" lastModified="15e321a270b">
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\i2c2.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="15e321a25ba">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_exti.c" lastModified="15e321a25e6">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_exti.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="15e321a255c">
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="15e321a2913">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15e321a2555">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\adc1.h" lastModified="15e321a262e">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\delay.h" lastModified="15e321a263a">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_exti.h" lastModified="15e321a2599">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\jalan_dasar2.c" lastModified="15e321a3297">
+         <include file="..\..\..\lib\Include\uart.h"/>
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="15e321a3929">
+      </source>
+      <source file="..\..\..\lib\Source\navigasi.c" lastModified="15e321a26ff">
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\navigasi.h"/>
+      </source>
+      <source file="..\..\..\stdio\printf.c" lastModified="15e321a3151">
+         <include file="..\..\..\semihosting\semihosting.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\navigasi.h" lastModified="15e321a2a50">
+         <include file="..\..\..\lib\Include\wall_following_kanan.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kiri.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+         <include file="..\..\..\lib\Include\proximity.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\exti0.h"/>
+         <include file="..\..\..\lib\Include\tombol.h"/>
+         <include file="..\..\..\lib\Include\kipas.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\exti0.c" lastModified="15e321a26cc">
+         <include file="..\..\..\lib\Include\exti0.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="15e321a290d">
+      </source>
+      <source file="..\..\..\lib\Include\tombol.h" lastModified="15e321a2698">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\lib\Include\adc1.h"/>
+         <include file="..\..\..\lib\Include\timer4.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\color_sensor.h" lastModified="15e321a2a1c">
+         <include file="..\..\..\lib\Include\adc1.h"/>
+         <include file="..\..\..\lib\Include\timer5.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\tombol.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\i2c2.c" lastModified="15e321a26d2">
+         <include file="..\..\..\lib\Include\i2c2.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h" lastModified="15e321a25d2">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="15e321a5fe0">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_exti.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_flash.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_pwr.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_syscfg.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h" lastModified="15e321a2581">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\kipas.c" lastModified="15e321a26ea">
+         <include file="..\..\..\lib\Include\kipas.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\jalan_dasar.h" lastModified="15e321a264b">
+      </source>
+      <source file="..\..\..\lib\Source\tombol.c" lastModified="15e321a2728">
+         <include file="..\..\..\lib\Include\tombol.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_flash.h" lastModified="15e321a25a1">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15e321a2611">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\wall_following_kanan.h" lastModified="15e321a2a8c">
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+         <include file="..\..\..\lib\Include\lcd.h"/>
+         <include file="..\..\..\lib\Include\timer5.h"/>
+         <include file="..\..\..\lib\Include\proximity.h"/>
+         <include file="..\..\..\lib\Include\wall_following_kiri.h"/>
+      </source>
+      <source file="..\..\..\semihosting\sh_cmd.s" lastModified="15e321a2979">
+      </source>
+      <source file="..\..\..\semihosting\semihosting.h" lastModified="15e321a2973">
+      </source>
+      <source file="..\..\..\semihosting\semihosting.c" lastModified="15e321a313d">
+         <include file="..\..\..\semihosting\semihosting.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15e321a25f3">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="15e321a2907">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_syscfg.c" lastModified="15e321a2617">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_syscfg.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\timer7.h" lastModified="15e321a268b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h" lastModified="15e321a25ae">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\lcd.h" lastModified="15e321a2657">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_pwr.h" lastModified="15e321a25b4">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15e321a2571">
+      </source>
+      <source file="..\..\..\lib\Source\delay.c" lastModified="15e321a26bd">
+         <include file="..\..\..\lib\Include\delay.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\wall_following_kiri.c" lastModified="15e321a2b21">
+         <include file="..\..\..\lib\Include\wall_following_kiri.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="15e321a25a8">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\timer5.h" lastModified="15e321a2685">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="15e321a25c7">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\proximity.c" lastModified="15e321a2705">
+         <include file="..\..\..\lib\Include\proximity.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\timer7.c" lastModified="15e321a2722">
+         <include file="..\..\..\lib\Include\timer7.h"/>
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\proximity.h"/>
+      </source>
+      <source file="..\..\..\main.h" lastModified="15e321a2999">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_syscfg.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+         <include file="..\..\..\lib\Include\delay.h"/>
+         <include file="..\..\..\lib\Include\i2c2.h"/>
+         <include file="..\..\..\lib\Include\jalan_dasar.h"/>
+         <include file="..\..\..\lib\Include\navigasi.h"/>
+         <include file="..\..\..\lib\Include\uart.h"/>
+         <include file="..\..\..\lib\Include\srf_tpa.h"/>
+         <include file="..\..\..\lib\Include\timer7.h"/>
+         <include file="..\..\..\lib\Include\timer4.h"/>
+         <include file="..\..\..\lib\Include\tombol.h"/>
+         <include file="..\..\..\lib\Include\kipas.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\timer4.h" lastModified="15e321a267f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\srf_tpa.h" lastModified="15e321a2a5c">
+         <include file="..\..\..\lib\Include\proximity.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15e321a25e0">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\timer5.c" lastModified="15e321a271c">
+         <include file="..\..\..\lib\Include\timer5.h"/>
+         <include file="..\..\..\lib\Include\color_sensor.h"/>
+      </source>
+      <source file="..\..\..\lib\Include\timer2.h" lastModified="15e321a2679">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\uart.c" lastModified="15e524667d7">
+         <include file="..\..\..\lib\Include\uart.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\timer4.c" lastModified="15e321a2716">
+         <include file="..\..\..\lib\Include\timer4.h"/>
+      </source>
+      <source file="..\..\..\lib\Source\adc1.c" lastModified="15e321a26b2">
+         <include file="..\..\..\lib\Include\adc1.h"/>
+      </source>
+   </includePath>
+</dependencies>

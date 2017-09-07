@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=Reinhardt2.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\Reinhardt2 -TC:\CooCox\CoIDE\configuration\ProgramData\Reinhardt2/arm-gcc-link.ld -g">
+      <target file="Reinhardt2.elf" lastModified="15e52466f96">
+         <source file="..\obj\semihosting.o" lastModified="15e51eca65c"/>
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="15e51eca77c"/>
+         <source file="..\obj\navigasi.o" lastModified="15e51ecac69"/>
+         <source file="..\obj\delay.o" lastModified="15e51ecacfa"/>
+         <source file="..\obj\timer7.o" lastModified="15e51ecad9a"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="15e51ecae63"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="15e51ecaf01"/>
+         <source file="..\obj\uart.o" lastModified="15e52466b4e"/>
+         <source file="..\obj\tombol.o" lastModified="15e51ecb0d7"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15e51ecb135"/>
+         <source file="..\obj\kipas.o" lastModified="15e51ecb1b4"/>
+         <source file="..\obj\main.o" lastModified="15e5244a854"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15e51ecb3ab"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="15e51ecb460"/>
+         <source file="..\obj\printf.o" lastModified="15e51ecb534"/>
+         <source file="..\obj\proximity.o" lastModified="15e51ecb5a1"/>
+         <source file="..\obj\color_sensor.o" lastModified="15e51ecb6d6"/>
+         <source file="..\obj\menu.o" lastModified="15e51ecb917"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15e51ecb9d4"/>
+         <source file="..\obj\stm32f4xx_flash.o" lastModified="15e51ecbacf"/>
+         <source file="..\obj\sh_cmd.o" lastModified="15e51ecbae2"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15e51ecbb7d"/>
+         <source file="..\obj\syscalls.o" lastModified="15e51ecbc33"/>
+         <source file="..\obj\srf_tpa.o" lastModified="15e51ecbce4"/>
+         <source file="..\obj\lcd.o" lastModified="15e52446b5b"/>
+         <source file="..\obj\exti0.o" lastModified="15e51ecbee4"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="15e51ecbfef"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="15e51ecc0a3"/>
+         <source file="..\obj\misc.o" lastModified="15e51ecc17f"/>
+         <source file="..\obj\i2c2.o" lastModified="15e51ecc2ae"/>
+         <source file="..\obj\timer2.o" lastModified="15e51ecc380"/>
+         <source file="..\obj\wall_following_kanan.o" lastModified="15e51ecc6ab"/>
+         <source file="..\obj\jalan_dasar2.o" lastModified="15e52446d26"/>
+         <source file="..\obj\timer4.o" lastModified="15e51eccb0f"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="15e51eccc49"/>
+         <source file="..\obj\adc1.o" lastModified="15e51ecccc8"/>
+         <source file="..\obj\timer5.o" lastModified="15e51eccd41"/>
+         <source file="..\obj\wall_following_kiri.o" lastModified="15e51ecd0c2"/>
+      </target>
+   </processor>
+</history>

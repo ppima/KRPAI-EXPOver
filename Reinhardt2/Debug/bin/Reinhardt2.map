@@ -1,0 +1,2604 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+                              ..\obj\wall_following_kanan.o (atan)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+                              ..\obj\jalan_dasar2.o (cos)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o) (fabs)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+                              ..\obj\jalan_dasar2.o (sin)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+                              ..\obj\jalan_dasar2.o (acos)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+                              ..\obj\jalan_dasar2.o (pow)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+                              ..\obj\jalan_dasar2.o (sqrt)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (__ieee754_acos)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o) (__kernel_cos)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o) (__kernel_sin)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o) (finite)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o) (floor)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (__fdlib_version)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (matherr)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (nan)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o) (rint)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o) (scalbn)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o) (copysign)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                              ..\obj\navigasi.o (__aeabi_dsub)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                              ..\obj\navigasi.o (__aeabi_dmul)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+                              ..\obj\jalan_dasar2.o (__aeabi_dcmpeq)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (__aeabi_dcmpun)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o) (__aeabi_d2iz)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                              ..\obj\jalan_dasar2.o (__aeabi_d2uiz)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                              ..\obj\timer7.o (__aeabi_fsub)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                              ..\obj\timer7.o (__aeabi_fdiv)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+                              ..\obj\timer2.o (__aeabi_fcmpeq)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+                              ..\obj\timer7.o (__aeabi_f2uiz)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+                              d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o) (__errno)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memcpy.o)
+                              ..\obj\menu.o (memcpy)
+d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+                              ..\obj\uart.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+colorTarget         0x1               ..\obj\timer5.o
+colorMatch          0x1               ..\obj\timer5.o
+srfFront            0x1               ..\obj\wall_following_kanan.o
+room4Model          0x1               ..\obj\navigasi.o
+I2C2_DATA           0xa               ..\obj\main.o
+eins                0x8               ..\obj\jalan_dasar2.o
+j                   0x1               ..\obj\wall_following_kanan.o
+tibiaPos            0x2               ..\obj\jalan_dasar2.o
+srfR1               0x1               ..\obj\wall_following_kanan.o
+x                   0x8               ..\obj\main.o
+origin              0x1               ..\obj\navigasi.o
+tpa1                0x4               ..\obj\main.o
+tpaVal              0x1               ..\obj\main.o
+g                   0x1               ..\obj\wall_following_kanan.o
+nilaitpa            0x2               ..\obj\main.o
+right               0x210             ..\obj\jalan_dasar2.o
+oldStatus           0x1               ..\obj\main.o
+femurAngle          0x8               ..\obj\jalan_dasar2.o
+srfBack             0x1               ..\obj\wall_following_kanan.o
+left                0x210             ..\obj\jalan_dasar2.o
+StatusWarna         0x1               ..\obj\main.o
+coxaPos             0x2               ..\obj\jalan_dasar2.o
+status1             0x1               ..\obj\main.o
+i                   0x1               ..\obj\wall_following_kanan.o
+val                 0x1               ..\obj\main.o
+srfL2               0x1               ..\obj\wall_following_kanan.o
+current             0x1               ..\obj\navigasi.o
+room1Door           0x1               ..\obj\navigasi.o
+angle               0x8               ..\obj\main.o
+srfL1               0x1               ..\obj\wall_following_kanan.o
+dirFlag             0x4               ..\obj\main.o
+tibiaAngle          0x8               ..\obj\jalan_dasar2.o
+coxaAngle           0x8               ..\obj\jalan_dasar2.o
+y                   0x8               ..\obj\main.o
+count               0x1               ..\obj\main.o
+room1Model          0x1               ..\obj\navigasi.o
+srfRDg              0x1               ..\obj\wall_following_kanan.o
+srfR2               0x1               ..\obj\wall_following_kanan.o
+UART_RX             0x38              ..\obj\uart.o
+vier                0x8               ..\obj\jalan_dasar2.o
+zwei                0x8               ..\obj\jalan_dasar2.o
+pin                 0x4               ..\obj\main.o
+srfLDg              0x1               ..\obj\wall_following_kanan.o
+femurPos            0x2               ..\obj\jalan_dasar2.o
+drei                0x8               ..\obj\jalan_dasar2.o
+value               0x14              ..\obj\wall_following_kanan.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\semihosting.o
+ .data          0x00000000        0x0 ..\obj\semihosting.o
+ .bss           0x00000000       0x11 ..\obj\semihosting.o
+ .text.SH_SendChar
+                0x00000000       0x64 ..\obj\semihosting.o
+ .text.SH_SendString
+                0x00000000       0x1e ..\obj\semihosting.o
+ .text.SH_GetChar
+                0x00000000       0x3e ..\obj\semihosting.o
+ .debug_info    0x00000000      0x968 ..\obj\semihosting.o
+ .debug_abbrev  0x00000000      0x208 ..\obj\semihosting.o
+ .debug_aranges
+                0x00000000       0x30 ..\obj\semihosting.o
+ .debug_ranges  0x00000000       0x20 ..\obj\semihosting.o
+ .debug_line    0x00000000      0x1ef ..\obj\semihosting.o
+ .debug_str     0x00000000      0x5ae ..\obj\semihosting.o
+ .comment       0x00000000       0x6f ..\obj\semihosting.o
+ .debug_frame   0x00000000       0x7c ..\obj\semihosting.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\semihosting.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_syscfg.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x1c ..\obj\stm32f4xx_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000       0x20 ..\obj\stm32f4xx_syscfg.o
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000       0x1c ..\obj\stm32f4xx_syscfg.o
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_syscfg.o
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x30 ..\obj\stm32f4xx_syscfg.o
+ .text          0x00000000        0x0 ..\obj\navigasi.o
+ .data          0x00000000        0x2 ..\obj\navigasi.o
+ .bss           0x00000000       0x20 ..\obj\navigasi.o
+ .rodata        0x00000000       0xcb ..\obj\navigasi.o
+ .text.robotNavigation
+                0x00000000      0x6cc ..\obj\navigasi.o
+ .text.roomStart
+                0x00000000      0x580 ..\obj\navigasi.o
+ .text.checkRoomIn
+                0x00000000      0x254 ..\obj\navigasi.o
+ .text.checkRoomOut
+                0x00000000      0x274 ..\obj\navigasi.o
+ .text.checkFire
+                0x00000000       0x2a ..\obj\navigasi.o
+ .text.checkingFire
+                0x00000000       0x34 ..\obj\navigasi.o
+ .text.searchFire
+                0x00000000      0x1b8 ..\obj\navigasi.o
+ .text.approachFire
+                0x00000000      0x46c ..\obj\navigasi.o
+ .text.approachKillFire
+                0x00000000      0x1e4 ..\obj\navigasi.o
+ .text.killFire
+                0x00000000      0x20c ..\obj\navigasi.o
+ .text.killFireWater
+                0x00000000       0x88 ..\obj\navigasi.o
+ .text.navigationRoom4
+                0x00000000      0x2bc ..\obj\navigasi.o
+ .text.roomStop
+                0x00000000       0x8c ..\obj\navigasi.o
+ .text.room4Start
+                0x00000000      0x734 ..\obj\navigasi.o
+ .text.room1toRoom2
+                0x00000000      0x1ac ..\obj\navigasi.o
+ .text.room1toRoom3
+                0x00000000      0x1b4 ..\obj\navigasi.o
+ .text.room1toRoom4Unchecked
+                0x00000000      0x8ac ..\obj\navigasi.o
+ .text.room1toRoom4Checked
+                0x00000000      0x7d0 ..\obj\navigasi.o
+ .text.room2toRoom1
+                0x00000000      0x248 ..\obj\navigasi.o
+ .text.room2toRoom3
+                0x00000000       0xe0 ..\obj\navigasi.o
+ .text.room2toRoom4
+                0x00000000      0x1fc ..\obj\navigasi.o
+ .text.room3toRoom1
+                0x00000000      0x138 ..\obj\navigasi.o
+ .text.room3toRoom2
+                0x00000000       0xb0 ..\obj\navigasi.o
+ .text.room3toRoom4
+                0x00000000      0x918 ..\obj\navigasi.o
+ .text.room4toRoom1
+                0x00000000      0x634 ..\obj\navigasi.o
+ .text.room4toRoom2
+                0x00000000      0x298 ..\obj\navigasi.o
+ .text.room4toRoom3
+                0x00000000      0x254 ..\obj\navigasi.o
+ .text.navigasiAllArbitrary
+                0x00000000      0x360 ..\obj\navigasi.o
+ .text.tes      0x00000000       0x30 ..\obj\navigasi.o
+ .debug_info    0x00000000     0x1a1d ..\obj\navigasi.o
+ .debug_abbrev  0x00000000      0x33e ..\obj\navigasi.o
+ .debug_aranges
+                0x00000000      0x100 ..\obj\navigasi.o
+ .debug_ranges  0x00000000       0xf0 ..\obj\navigasi.o
+ .debug_line    0x00000000     0x12d8 ..\obj\navigasi.o
+ .debug_str     0x00000000      0xb48 ..\obj\navigasi.o
+ .comment       0x00000000       0x6f ..\obj\navigasi.o
+ .debug_frame   0x00000000      0x4a0 ..\obj\navigasi.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\navigasi.o
+ COMMON         0x00000000        0x5 ..\obj\navigasi.o
+ .text          0x00000000        0x0 ..\obj\delay.o
+ .data          0x00000000        0x0 ..\obj\delay.o
+ .text.delayUs  0x00000000       0x28 ..\obj\delay.o
+ .text.delayTime
+                0x00000000       0x14 ..\obj\delay.o
+ .text.delaySetTime
+                0x00000000       0x12 ..\obj\delay.o
+ .text.delayEnableSystick
+                0x00000000       0x2c ..\obj\delay.o
+ .text.delayDisableSystick
+                0x00000000       0x1c ..\obj\delay.o
+ .text          0x00000000        0x0 ..\obj\timer7.o
+ .data          0x00000000        0x0 ..\obj\timer7.o
+ .text.timer7Init
+                0x00000000       0x34 ..\obj\timer7.o
+ .text.timer7InitFreq
+                0x00000000       0x9e ..\obj\timer7.o
+ .text.timer7Start
+                0x00000000       0x70 ..\obj\timer7.o
+ .text.P_TIM7_TIMER
+                0x00000000       0x50 ..\obj\timer7.o
+ .text.P_TIM7_NVIC
+                0x00000000       0x34 ..\obj\timer7.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000       0xd4 ..\obj\stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x54 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000       0x2a ..\obj\stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000       0x22 ..\obj\stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3a ..\obj\stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x3e ..\obj\stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x46 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x38 ..\obj\stm32f4xx_usart.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c ..\obj\stm32f4xx_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_BackupRegulatorCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_MainRegulatorModeConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_FlashPowerDownCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x64 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x3c ..\obj\stm32f4xx_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32f4xx_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x24 ..\obj\stm32f4xx_pwr.o
+ .debug_info    0x00000000      0x524 ..\obj\stm32f4xx_pwr.o
+ .debug_abbrev  0x00000000      0x192 ..\obj\stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000000       0x78 ..\obj\stm32f4xx_pwr.o
+ .debug_ranges  0x00000000       0x68 ..\obj\stm32f4xx_pwr.o
+ .debug_line    0x00000000      0x2c2 ..\obj\stm32f4xx_pwr.o
+ .debug_str     0x00000000      0x391 ..\obj\stm32f4xx_pwr.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_pwr.o
+ .debug_frame   0x00000000      0x1dc ..\obj\stm32f4xx_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f4xx_pwr.o
+ .text          0x00000000        0x0 ..\obj\uart.o
+ .bss           0x00000000        0x0 ..\obj\uart.o
+ .text.uartReceiveString
+                0x00000000      0x160 ..\obj\uart.o
+ .text.uartGetByte
+                0x00000000       0xc4 ..\obj\uart.o
+ .text.uartFlush
+                0x00000000       0x58 ..\obj\uart.o
+ .text.uartSendArray
+                0x00000000       0x48 ..\obj\uart.o
+ .text          0x00000000        0x0 ..\obj\tombol.o
+ .data          0x00000000        0x0 ..\obj\tombol.o
+ .text.startButtonPressed
+                0x00000000       0x24 ..\obj\tombol.o
+ .text.button1Pressed
+                0x00000000       0x20 ..\obj\tombol.o
+ .text.button2Pressed
+                0x00000000       0x20 ..\obj\tombol.o
+ .text.button3Pressed
+                0x00000000       0x20 ..\obj\tombol.o
+ .text.button4Pressed
+                0x00000000       0x20 ..\obj\tombol.o
+ .text.lsLeft   0x00000000       0x18 ..\obj\tombol.o
+ .text.lsRight  0x00000000       0x18 ..\obj\tombol.o
+ .text.lsFrontRight
+                0x00000000       0x18 ..\obj\tombol.o
+ .text.lsFrontLeft
+                0x00000000       0x18 ..\obj\tombol.o
+ .text.fireLedStartBlink
+                0x00000000       0x20 ..\obj\tombol.o
+ .text.fireLedStopBlink
+                0x00000000       0x18 ..\obj\tombol.o
+ .rodata        0x00000000       0x2d ..\obj\tombol.o
+ .text.tesLimitSwitch
+                0x00000000       0x90 ..\obj\tombol.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\kipas.o
+ .data          0x00000000        0x0 ..\obj\kipas.o
+ .bss           0x00000000        0x0 ..\obj\kipas.o
+ .text.kipasStart
+                0x00000000       0x18 ..\obj\kipas.o
+ .text.kipasStop
+                0x00000000       0x18 ..\obj\kipas.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x8 ..\obj\main.o
+ .bss           0x00000000       0x18 ..\obj\main.o
+ .text.tesSonar
+                0x00000000      0x170 ..\obj\main.o
+ .text.searchFireWater
+                0x00000000      0x208 ..\obj\main.o
+ .text.extFire  0x00000000       0x64 ..\obj\main.o
+ .text.navigasiAll
+                0x00000000       0x90 ..\obj\main.o
+ .text.kalibrasiSensor
+                0x00000000      0x128 ..\obj\main.o
+ .text.cobals   0x00000000      0x188 ..\obj\main.o
+ COMMON         0x00000000       0x48 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x50 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x28 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PLLI2SCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x1c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x5c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x1c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x34 ..\obj\stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32f4xx_rcc.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x1c ..\obj\stm32f4xx_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_adc.o
+ .text.ADC_CommonStructInit
+                0x00000000       0x2a ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000       0x26 ..\obj\stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_VBATCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000       0x2e ..\obj\stm32f4xx_adc.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ContinuousModeCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x42 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000       0x14 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000      0x120 ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x42 ..\obj\stm32f4xx_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x32 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000       0x34 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000       0x34 ..\obj\stm32f4xx_adc.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000       0x1e ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000       0x2e ..\obj\stm32f4xx_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x36 ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x2e ..\obj\stm32f4xx_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x50 ..\obj\stm32f4xx_adc.o
+ .text.ADC_ClearFlag
+                0x00000000       0x1e ..\obj\stm32f4xx_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x5a ..\obj\stm32f4xx_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000       0x2a ..\obj\stm32f4xx_adc.o
+ .text          0x00000000        0x0 ..\obj\printf.o
+ .bss           0x00000000        0x0 ..\obj\printf.o
+ .text.PrintChar
+                0x00000000       0x1a ..\obj\printf.o
+ .text.snprintf
+                0x00000000       0x30 ..\obj\printf.o
+ .rodata        0x00000000       0x24 ..\obj\printf.o
+ .text.vfprintf
+                0x00000000       0x68 ..\obj\printf.o
+ .text.vprintf  0x00000000       0x28 ..\obj\printf.o
+ .text.fprintf  0x00000000       0x2c ..\obj\printf.o
+ .text.printf   0x00000000       0x28 ..\obj\printf.o
+ .text.puts     0x00000000       0x24 ..\obj\printf.o
+ .text.fputc    0x00000000       0x40 ..\obj\printf.o
+ .text.fputs    0x00000000       0x48 ..\obj\printf.o
+ .text          0x00000000        0x0 ..\obj\proximity.o
+ .data          0x00000000        0x0 ..\obj\proximity.o
+ .bss           0x00000000        0xc ..\obj\proximity.o
+ .rodata        0x00000000       0x1d ..\obj\proximity.o
+ .text.dollCheck
+                0x00000000       0x68 ..\obj\proximity.o
+ .text          0x00000000        0x0 ..\obj\color_sensor.o
+ .rodata        0x00000000       0x74 ..\obj\color_sensor.o
+ .text.tesAdc   0x00000000       0xc8 ..\obj\color_sensor.o
+ .text.tesColorSensor
+                0x00000000       0x90 ..\obj\color_sensor.o
+ .text.getBlackThreshold
+                0x00000000      0x304 ..\obj\color_sensor.o
+ .text.getWhiteThreshold
+                0x00000000      0x1bc ..\obj\color_sensor.o
+ .text.checkThreshold
+                0x00000000      0x1e4 ..\obj\color_sensor.o
+ .text.checkColorWF
+                0x00000000      0x1b8 ..\obj\color_sensor.o
+ .text          0x00000000        0x0 ..\obj\menu.o
+ .data          0x00000000      0x230 ..\obj\menu.o
+ .bss           0x00000000        0xc ..\obj\menu.o
+ .rodata        0x00000000      0x13c ..\obj\menu.o
+ .text.menuLCD  0x00000000      0x528 ..\obj\menu.o
+ .text.testing  0x00000000       0x48 ..\obj\menu.o
+ .text.robotNav
+                0x00000000      0x27c ..\obj\menu.o
+ .debug_info    0x00000000     0x1067 ..\obj\menu.o
+ .debug_abbrev  0x00000000      0x2de ..\obj\menu.o
+ .debug_aranges
+                0x00000000       0x30 ..\obj\menu.o
+ .debug_ranges  0x00000000       0x20 ..\obj\menu.o
+ .debug_line    0x00000000      0x476 ..\obj\menu.o
+ .debug_str     0x00000000      0x963 ..\obj\menu.o
+ .comment       0x00000000       0x6f ..\obj\menu.o
+ .debug_frame   0x00000000       0x84 ..\obj\menu.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\menu.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x120 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x32 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x42 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x18 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x32 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x18 ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x2e ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c ..\obj\stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000       0x22 ..\obj\stm32f4xx_gpio.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x20 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x00000000       0x38 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_Unlock
+                0x00000000       0x2c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_EraseSector
+                0x00000000       0xc0 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x00000000       0xa0 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x00000000       0x70 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x68 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x6c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x00000000       0x68 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x00000000       0x30 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x5c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x30 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x58 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x00000000       0x38 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x00000000       0x30 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x18 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x18 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x30 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x3c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f4xx_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x68 ..\obj\stm32f4xx_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x30 ..\obj\stm32f4xx_flash.o
+ .debug_info    0x00000000      0x72e ..\obj\stm32f4xx_flash.o
+ .debug_abbrev  0x00000000      0x1db ..\obj\stm32f4xx_flash.o
+ .debug_aranges
+                0x00000000      0x108 ..\obj\stm32f4xx_flash.o
+ .debug_ranges  0x00000000       0xf8 ..\obj\stm32f4xx_flash.o
+ .debug_line    0x00000000      0x488 ..\obj\stm32f4xx_flash.o
+ .debug_str     0x00000000      0x592 ..\obj\stm32f4xx_flash.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_flash.o
+ .debug_frame   0x00000000      0x450 ..\obj\stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f4xx_flash.o
+ .data          0x00000000        0x0 ..\obj\sh_cmd.o
+ .bss           0x00000000        0x0 ..\obj\sh_cmd.o
+ .text          0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf4 ..\obj\system_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .bss           0x00000000        0x4 ..\obj\syscalls.o
+ .text._sbrk    0x00000000       0x3c ..\obj\syscalls.o
+ .text.link     0x00000000       0x18 ..\obj\syscalls.o
+ .text._close   0x00000000       0x16 ..\obj\syscalls.o
+ .text._fstat   0x00000000       0x1e ..\obj\syscalls.o
+ .text._isatty  0x00000000       0x14 ..\obj\syscalls.o
+ .text._lseek   0x00000000       0x18 ..\obj\syscalls.o
+ .text._read    0x00000000       0x18 ..\obj\syscalls.o
+ .text._write   0x00000000       0x18 ..\obj\syscalls.o
+ .text.abort    0x00000000        0x6 ..\obj\syscalls.o
+ .debug_info    0x00000000      0xc89 ..\obj\syscalls.o
+ .debug_abbrev  0x00000000      0x20d ..\obj\syscalls.o
+ .debug_aranges
+                0x00000000       0x60 ..\obj\syscalls.o
+ .debug_ranges  0x00000000       0x50 ..\obj\syscalls.o
+ .debug_line    0x00000000      0x2d7 ..\obj\syscalls.o
+ .debug_str     0x00000000      0x6ff ..\obj\syscalls.o
+ .comment       0x00000000       0x6f ..\obj\syscalls.o
+ .debug_frame   0x00000000      0x168 ..\obj\syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\syscalls.o
+ .text          0x00000000        0x0 ..\obj\srf_tpa.o
+ .text.median   0x00000000       0xbe ..\obj\srf_tpa.o
+ .text.sonarRange
+                0x00000000       0x1e ..\obj\srf_tpa.o
+ .text.sonarGet
+                0x00000000       0x6c ..\obj\srf_tpa.o
+ .text.srfAddressing
+                0x00000000       0x48 ..\obj\srf_tpa.o
+ .text.tpaCheckDelayMs
+                0x00000000      0x10c ..\obj\srf_tpa.o
+ .text.tpa81ResetValue
+                0x00000000       0x5c ..\obj\srf_tpa.o
+ .text          0x00000000        0x0 ..\obj\lcd.o
+ .bss           0x00000000        0xc ..\obj\lcd.o
+ .text.UB_LCD_2x16_SetMode
+                0x00000000       0x42 ..\obj\lcd.o
+ .text          0x00000000        0x0 ..\obj\exti0.o
+ .text.uvtronCheck
+                0x00000000       0x30 ..\obj\exti0.o
+ .rodata        0x00000000        0xc ..\obj\exti0.o
+ .text.uvtronChecking
+                0x00000000      0x198 ..\obj\exti0.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x42 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x40 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetPEC
+                0x00000000       0x1e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x3e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x2c ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x46 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x5e ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x42 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000       0x2c ..\obj\stm32f4xx_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x58 ..\obj\stm32f4xx_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000       0x2c ..\obj\stm32f4xx_i2c.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_exti.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x34 ..\obj\stm32f4xx_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x2a ..\obj\stm32f4xx_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x24 ..\obj\stm32f4xx_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32f4xx_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f4xx_exti.o
+ .text          0x00000000        0x0 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 ..\obj\misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ..\obj\misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 ..\obj\misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 ..\obj\misc.o
+ .text          0x00000000        0x0 ..\obj\i2c2.o
+ .text.i2c2ReadMultiByte
+                0x00000000      0x258 ..\obj\i2c2.o
+ .text.i2c2WriteMultiByte
+                0x00000000      0x1ac ..\obj\i2c2.o
+ .text.i2c2WriteCMD
+                0x00000000      0x138 ..\obj\i2c2.o
+ .text.i2c2ReadByte16
+                0x00000000      0x24c ..\obj\i2c2.o
+ .text.i2c2WriteByte16
+                0x00000000      0x1b8 ..\obj\i2c2.o
+ .text.i2c2Delay
+                0x00000000       0x1e ..\obj\i2c2.o
+ .text          0x00000000        0x0 ..\obj\timer2.o
+ .data          0x00000000        0x0 ..\obj\timer2.o
+ .text.timer2Init
+                0x00000000       0x34 ..\obj\timer2.o
+ .text.timer2InitFreq
+                0x00000000       0xb6 ..\obj\timer2.o
+ .text.timer2Start
+                0x00000000       0x1c ..\obj\timer2.o
+ .text.timer2Stop
+                0x00000000       0x20 ..\obj\timer2.o
+ .text.P_TIM2_TIMER
+                0x00000000       0x52 ..\obj\timer2.o
+ .text.P_TIM2_NVIC
+                0x00000000       0x32 ..\obj\timer2.o
+ .text          0x00000000        0x0 ..\obj\wall_following_kanan.o
+ .data          0x00000000        0x0 ..\obj\wall_following_kanan.o
+ .bss           0x00000000        0xc ..\obj\wall_following_kanan.o
+ .rodata        0x00000000      0x133 ..\obj\wall_following_kanan.o
+ .text.kanan    0x00000000      0x5b0 ..\obj\wall_following_kanan.o
+ .text.kananRoom
+                0x00000000      0x54c ..\obj\wall_following_kanan.o
+ .text.rataKanan
+                0x00000000      0x180 ..\obj\wall_following_kanan.o
+ .text.geserKanan
+                0x00000000      0x248 ..\obj\wall_following_kanan.o
+ .text.geserKananRoom
+                0x00000000      0x24c ..\obj\wall_following_kanan.o
+ .text.putarKanan90
+                0x00000000       0xc0 ..\obj\wall_following_kanan.o
+ .text.putarBalik
+                0x00000000       0xa8 ..\obj\wall_following_kanan.o
+ .text.kananProx
+                0x00000000      0x654 ..\obj\wall_following_kanan.o
+ .text.kananMundur
+                0x00000000      0x3b0 ..\obj\wall_following_kanan.o
+ .debug_info    0x00000000     0x1146 ..\obj\wall_following_kanan.o
+ .debug_abbrev  0x00000000      0x2fc ..\obj\wall_following_kanan.o
+ .debug_aranges
+                0x00000000       0x60 ..\obj\wall_following_kanan.o
+ .debug_ranges  0x00000000       0x50 ..\obj\wall_following_kanan.o
+ .debug_line    0x00000000      0x73e ..\obj\wall_following_kanan.o
+ .debug_str     0x00000000      0x88c ..\obj\wall_following_kanan.o
+ .comment       0x00000000       0x6f ..\obj\wall_following_kanan.o
+ .debug_frame   0x00000000      0x180 ..\obj\wall_following_kanan.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\wall_following_kanan.o
+ COMMON         0x00000000       0x20 ..\obj\wall_following_kanan.o
+ .text          0x00000000        0x0 ..\obj\jalan_dasar2.o
+ .text.normalInit
+                0x00000000      0x140 ..\obj\jalan_dasar2.o
+ .text.normalInitAngle
+                0x00000000      0x2a8 ..\obj\jalan_dasar2.o
+ .text.nungging
+                0x00000000      0x1fc ..\obj\jalan_dasar2.o
+ .text.miring   0x00000000      0x1f0 ..\obj\jalan_dasar2.o
+ .text.moveNormal
+                0x00000000      0x420 ..\obj\jalan_dasar2.o
+ .text.moveRobotTPA
+                0x00000000     0x1214 ..\obj\jalan_dasar2.o
+ .text.moveNormal2
+                0x00000000      0x3b4 ..\obj\jalan_dasar2.o
+ .text.moveServoRR
+                0x00000000       0x3c ..\obj\jalan_dasar2.o
+ .text.tesServo
+                0x00000000       0x7c ..\obj\jalan_dasar2.o
+ .text          0x00000000        0x0 ..\obj\timer4.o
+ .data          0x00000000        0x0 ..\obj\timer4.o
+ .text.timer4Start
+                0x00000000       0x20 ..\obj\timer4.o
+ .text          0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1c0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x32 ..\obj\stm32f4xx_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000       0x26 ..\obj\stm32f4xx_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCounter
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCounter
+                0x00000000       0x16 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x18 ..\obj\stm32f4xx_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0xf4 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2Init
+                0x00000000      0x110 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3Init
+                0x00000000      0x10c ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0xcc ..\obj\stm32f4xx_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x42 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0xb0 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare1
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare2
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare3
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetCompare4
+                0x00000000       0x1a ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x54 ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x54 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xa8 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x30 ..\obj\stm32f4xx_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xb8 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture1
+                0x00000000       0x16 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture2
+                0x00000000       0x16 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture3
+                0x00000000       0x16 ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetCapture4
+                0x00000000       0x16 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x3a ..\obj\stm32f4xx_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x4e ..\obj\stm32f4xx_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x3c ..\obj\stm32f4xx_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x4a ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1c ..\obj\stm32f4xx_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DMAConfig
+                0x00000000       0x28 ..\obj\stm32f4xx_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x46 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x22 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x2e ..\obj\stm32f4xx_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x5c ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x5e ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x36 ..\obj\stm32f4xx_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x52 ..\obj\stm32f4xx_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x96 ..\obj\stm32f4xx_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x3e ..\obj\stm32f4xx_tim.o
+ .text.TIM_RemapConfig
+                0x00000000       0x1e ..\obj\stm32f4xx_tim.o
+ .text.TI1_Config
+                0x00000000       0x84 ..\obj\stm32f4xx_tim.o
+ .text.TI2_Config
+                0x00000000       0x98 ..\obj\stm32f4xx_tim.o
+ .text.TI3_Config
+                0x00000000       0x8e ..\obj\stm32f4xx_tim.o
+ .text.TI4_Config
+                0x00000000       0x9c ..\obj\stm32f4xx_tim.o
+ .text          0x00000000        0x0 ..\obj\adc1.o
+ .bss           0x00000000        0x0 ..\obj\adc1.o
+ .text.adc1ReadMean
+                0x00000000      0x154 ..\obj\adc1.o
+ .text          0x00000000        0x0 ..\obj\timer5.o
+ .data          0x00000000        0x0 ..\obj\timer5.o
+ .text.timer5Start
+                0x00000000       0x34 ..\obj\timer5.o
+ .text          0x00000000        0x0 ..\obj\wall_following_kiri.o
+ .data          0x00000000        0x0 ..\obj\wall_following_kiri.o
+ .bss           0x00000000        0xc ..\obj\wall_following_kiri.o
+ .rodata        0x00000000       0xd9 ..\obj\wall_following_kiri.o
+ .text.kiri     0x00000000      0x534 ..\obj\wall_following_kiri.o
+ .text.kiriRoom
+                0x00000000      0x534 ..\obj\wall_following_kiri.o
+ .text.rataKiri
+                0x00000000      0x188 ..\obj\wall_following_kiri.o
+ .text.geserKiri
+                0x00000000      0x250 ..\obj\wall_following_kiri.o
+ .text.geserKiriRoom
+                0x00000000      0x254 ..\obj\wall_following_kiri.o
+ .text.putarKiri90
+                0x00000000       0xcc ..\obj\wall_following_kiri.o
+ .text.kiriProx
+                0x00000000      0x634 ..\obj\wall_following_kiri.o
+ .text.kiriMundur
+                0x00000000      0x408 ..\obj\wall_following_kiri.o
+ .debug_info    0x00000000     0x104f ..\obj\wall_following_kiri.o
+ .debug_abbrev  0x00000000      0x2f6 ..\obj\wall_following_kiri.o
+ .debug_aranges
+                0x00000000       0x58 ..\obj\wall_following_kiri.o
+ .debug_ranges  0x00000000       0x60 ..\obj\wall_following_kiri.o
+ .debug_line    0x00000000      0x6fe ..\obj\wall_following_kiri.o
+ .debug_str     0x00000000      0x85a ..\obj\wall_following_kiri.o
+ .comment       0x00000000       0x6f ..\obj\wall_following_kiri.o
+ .debug_frame   0x00000000      0x158 ..\obj\wall_following_kiri.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\wall_following_kiri.o
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0xec d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+ .text          0x00000000      0x134 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00040000         xr
+ram              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20010000                _eram = 0x20010000
+
+.text           0x08000000     0x9d18
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ..\obj\startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.SYSCFG_EXTILineConfig
+                0x08000188       0x84 ..\obj\stm32f4xx_syscfg.o
+                0x08000188                SYSCFG_EXTILineConfig
+ .text.NVIC_SetPriority
+                0x0800020c       0x54 ..\obj\delay.o
+ .text.SysTick_Config
+                0x08000260       0x44 ..\obj\delay.o
+ .text.delayMs  0x080002a4       0x30 ..\obj\delay.o
+                0x080002a4                delayMs
+ .text.SysTick_Handler
+                0x080002d4       0x48 ..\obj\delay.o
+                0x080002d4                SysTick_Handler
+ .text.delayInit
+                0x0800031c       0x50 ..\obj\delay.o
+                0x0800031c                delayInit
+ .text.delayTime2
+                0x0800036c       0x14 ..\obj\delay.o
+                0x0800036c                delayTime2
+ .text.delaySetTime2
+                0x08000380       0x1c ..\obj\delay.o
+                0x08000380                delaySetTime2
+ .text.timer7Stop
+                0x0800039c       0x20 ..\obj\timer7.o
+                0x0800039c                timer7Stop
+ .text.TIM7_IRQHandler
+                0x080003bc       0x34 ..\obj\timer7.o
+                0x080003bc                TIM7_IRQHandler
+ .text.timer7ISRCallBack
+                0x080003f0       0xe0 ..\obj\timer7.o
+                0x080003f0                timer7ISRCallBack
+ .text.USART_Init
+                0x080004d0      0x174 ..\obj\stm32f4xx_usart.o
+                0x080004d0                USART_Init
+ .text.USART_Cmd
+                0x08000644       0x3e ..\obj\stm32f4xx_usart.o
+                0x08000644                USART_Cmd
+ .text.USART_OverSampling8Cmd
+                0x08000682       0x42 ..\obj\stm32f4xx_usart.o
+                0x08000682                USART_OverSampling8Cmd
+ .text.USART_SendData
+                0x080006c4       0x22 ..\obj\stm32f4xx_usart.o
+                0x080006c4                USART_SendData
+ .text.USART_ReceiveData
+                0x080006e6       0x1e ..\obj\stm32f4xx_usart.o
+                0x080006e6                USART_ReceiveData
+ .text.USART_ITConfig
+                0x08000704       0x8e ..\obj\stm32f4xx_usart.o
+                0x08000704                USART_ITConfig
+ .text.USART_GetFlagStatus
+                0x08000792       0x36 ..\obj\stm32f4xx_usart.o
+                0x08000792                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x080007c8       0xb4 ..\obj\stm32f4xx_usart.o
+                0x080007c8                USART_GetITStatus
+ .text.uartInit
+                0x0800087c      0x2cc ..\obj\uart.o
+                0x0800087c                uartInit
+ .text.uartSendByte
+                0x08000b48       0x5c ..\obj\uart.o
+                0x08000b48                uartSendByte
+ .text.uartSendString
+                0x08000ba4       0x92 ..\obj\uart.o
+                0x08000ba4                uartSendString
+ *fill*         0x08000c36        0x2 
+ .text.uartReceiveArray
+                0x08000c38       0xa8 ..\obj\uart.o
+                0x08000c38                uartReceiveArray
+ .text.P_UART_Receive
+                0x08000ce0       0xac ..\obj\uart.o
+                0x08000ce0                P_UART_Receive
+ .text.P_UART_RX_INT
+                0x08000d8c       0x54 ..\obj\uart.o
+                0x08000d8c                P_UART_RX_INT
+ .text.USART1_IRQHandler
+                0x08000de0       0x38 ..\obj\uart.o
+                0x08000de0                USART1_IRQHandler
+ .text.USART3_IRQHandler
+                0x08000e18       0x38 ..\obj\uart.o
+                0x08000e18                USART3_IRQHandler
+ .text.UART4_IRQHandler
+                0x08000e50       0x38 ..\obj\uart.o
+                0x08000e50                UART4_IRQHandler
+ .text.UART5_IRQHandler
+                0x08000e88       0x38 ..\obj\uart.o
+                0x08000e88                UART5_IRQHandler
+ .text.USART6_IRQHandler
+                0x08000ec0       0x38 ..\obj\uart.o
+                0x08000ec0                USART6_IRQHandler
+ .text.buttonInit
+                0x08000ef8       0xc0 ..\obj\tombol.o
+                0x08000ef8                buttonInit
+ .text.fireLedToggle
+                0x08000fb8       0x1c ..\obj\tombol.o
+                0x08000fb8                fireLedToggle
+ .text.fireLedOff
+                0x08000fd4       0x14 ..\obj\tombol.o
+                0x08000fd4                fireLedOff
+ .text.timer4ISRCallBack
+                0x08000fe8       0x44 ..\obj\tombol.o
+                0x08000fe8                timer4ISRCallBack
+ .text.Default_Reset_Handler
+                0x0800102c       0x5c ..\obj\startup_stm32f4xx.o
+                0x0800102c                Default_Reset_Handler
+                0x0800102c                Reset_Handler
+ .text.Default_Handler
+                0x08001088        0x6 ..\obj\startup_stm32f4xx.o
+                0x08001088                RTC_Alarm_IRQHandler
+                0x08001088                HASH_RNG_IRQHandler
+                0x08001088                EXTI2_IRQHandler
+                0x08001088                TIM8_CC_IRQHandler
+                0x08001088                DebugMon_Handler
+                0x08001088                TIM1_CC_IRQHandler
+                0x08001088                DMA2_Stream5_IRQHandler
+                0x08001088                DMA1_Stream5_IRQHandler
+                0x08001088                PVD_IRQHandler
+                0x08001088                SDIO_IRQHandler
+                0x08001088                TAMP_STAMP_IRQHandler
+                0x08001088                PendSV_Handler
+                0x08001088                NMI_Handler
+                0x08001088                CAN2_RX1_IRQHandler
+                0x08001088                EXTI3_IRQHandler
+                0x08001088                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001088                TIM1_UP_TIM10_IRQHandler
+                0x08001088                TIM8_UP_TIM13_IRQHandler
+                0x08001088                I2C3_ER_IRQHandler
+                0x08001088                I2C2_EV_IRQHandler
+                0x08001088                DMA1_Stream2_IRQHandler
+                0x08001088                CAN1_RX0_IRQHandler
+                0x08001088                FPU_IRQHandler
+                0x08001088                OTG_HS_WKUP_IRQHandler
+                0x08001088                UsageFault_Handler
+                0x08001088                CAN2_SCE_IRQHandler
+                0x08001088                DMA2_Stream2_IRQHandler
+                0x08001088                SPI1_IRQHandler
+                0x08001088                TIM6_DAC_IRQHandler
+                0x08001088                TIM1_BRK_TIM9_IRQHandler
+                0x08001088                DCMI_IRQHandler
+                0x08001088                CAN2_RX0_IRQHandler
+                0x08001088                DMA2_Stream3_IRQHandler
+                0x08001088                CRYP_IRQHandler
+                0x08001088                CAN1_RX1_IRQHandler
+                0x08001088                DMA2_Stream0_IRQHandler
+                0x08001088                I2C1_EV_IRQHandler
+                0x08001088                DMA1_Stream6_IRQHandler
+                0x08001088                DMA1_Stream1_IRQHandler
+                0x08001088                TIM3_IRQHandler
+                0x08001088                RCC_IRQHandler
+                0x08001088                TIM8_BRK_TIM12_IRQHandler
+                0x08001088                EXTI15_10_IRQHandler
+                0x08001088                ADC_IRQHandler
+                0x08001088                DMA1_Stream7_IRQHandler
+                0x08001088                CAN2_TX_IRQHandler
+                0x08001088                DMA2_Stream7_IRQHandler
+                0x08001088                I2C3_EV_IRQHandler
+                0x08001088                EXTI9_5_IRQHandler
+                0x08001088                RTC_WKUP_IRQHandler
+                0x08001088                ETH_WKUP_IRQHandler
+                0x08001088                SPI2_IRQHandler
+                0x08001088                OTG_HS_EP1_IN_IRQHandler
+                0x08001088                MemManage_Handler
+                0x08001088                DMA1_Stream0_IRQHandler
+                0x08001088                CAN1_TX_IRQHandler
+                0x08001088                SVC_Handler
+                0x08001088                EXTI4_IRQHandler
+                0x08001088                FSMC_IRQHandler
+                0x08001088                ETH_IRQHandler
+                0x08001088                OTG_HS_EP1_OUT_IRQHandler
+                0x08001088                WWDG_IRQHandler
+                0x08001088                OTG_FS_WKUP_IRQHandler
+                0x08001088                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001088                OTG_HS_IRQHandler
+                0x08001088                EXTI1_IRQHandler
+                0x08001088                USART2_IRQHandler
+                0x08001088                I2C2_ER_IRQHandler
+                0x08001088                DMA2_Stream1_IRQHandler
+                0x08001088                CAN1_SCE_IRQHandler
+                0x08001088                FLASH_IRQHandler
+                0x08001088                DMA2_Stream4_IRQHandler
+                0x08001088                BusFault_Handler
+                0x08001088                OTG_FS_IRQHandler
+                0x08001088                SPI3_IRQHandler
+                0x08001088                DMA1_Stream4_IRQHandler
+                0x08001088                I2C1_ER_IRQHandler
+                0x08001088                DMA2_Stream6_IRQHandler
+                0x08001088                DMA1_Stream3_IRQHandler
+ *fill*         0x0800108e        0x2 
+ .text.kipasInit
+                0x08001090       0x44 ..\obj\kipas.o
+                0x08001090                kipasInit
+ .text.main     0x080010d4       0x78 ..\obj\main.o
+                0x080010d4                main
+ .text.initAll  0x0800114c       0x9c ..\obj\main.o
+                0x0800114c                initAll
+ .text.RCC_HSEConfig
+                0x080011e8       0x24 ..\obj\stm32f4xx_rcc.o
+                0x080011e8                RCC_HSEConfig
+ .text.RCC_WaitForHSEStartUp
+                0x0800120c       0x50 ..\obj\stm32f4xx_rcc.o
+                0x0800120c                RCC_WaitForHSEStartUp
+ .text.RCC_GetClocksFreq
+                0x0800125c      0x150 ..\obj\stm32f4xx_rcc.o
+                0x0800125c                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x080013ac       0x3c ..\obj\stm32f4xx_rcc.o
+                0x080013ac                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x080013e8       0x3c ..\obj\stm32f4xx_rcc.o
+                0x080013e8                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08001424       0x3c ..\obj\stm32f4xx_rcc.o
+                0x08001424                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x08001460       0x3c ..\obj\stm32f4xx_rcc.o
+                0x08001460                RCC_APB1PeriphResetCmd
+ .text.RCC_GetFlagStatus
+                0x0800149c       0x74 ..\obj\stm32f4xx_rcc.o
+                0x0800149c                RCC_GetFlagStatus
+ .text.ADC_Init
+                0x08001510       0xa8 ..\obj\stm32f4xx_adc.o
+                0x08001510                ADC_Init
+ .text.ADC_CommonInit
+                0x080015b8       0x50 ..\obj\stm32f4xx_adc.o
+                0x080015b8                ADC_CommonInit
+ .text.ADC_Cmd  0x08001608       0x36 ..\obj\stm32f4xx_adc.o
+                0x08001608                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x0800163e      0x192 ..\obj\stm32f4xx_adc.o
+                0x0800163e                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x080017d0       0x1e ..\obj\stm32f4xx_adc.o
+                0x080017d0                ADC_SoftwareStartConv
+ .text.ADC_GetConversionValue
+                0x080017ee       0x18 ..\obj\stm32f4xx_adc.o
+                0x080017ee                ADC_GetConversionValue
+ .text.ADC_GetFlagStatus
+                0x08001806       0x32 ..\obj\stm32f4xx_adc.o
+                0x08001806                ADC_GetFlagStatus
+ .text.PutChar  0x08001838       0x1e ..\obj\printf.o
+                0x08001838                PutChar
+ .text.PutString
+                0x08001856       0x3a ..\obj\printf.o
+                0x08001856                PutString
+ .text.PutUnsignedInt
+                0x08001890       0x9c ..\obj\printf.o
+                0x08001890                PutUnsignedInt
+ .text.PutSignedInt
+                0x0800192c       0xf8 ..\obj\printf.o
+                0x0800192c                PutSignedInt
+ .text.PutHexa  0x08001a24       0xd4 ..\obj\printf.o
+                0x08001a24                PutHexa
+ .text.vsnprintf
+                0x08001af8      0x254 ..\obj\printf.o
+                0x08001af8                vsnprintf
+ .text.vsprintf
+                0x08001d4c       0x22 ..\obj\printf.o
+                0x08001d4c                vsprintf
+ .text.sprintf  0x08001d6e       0x2c ..\obj\printf.o
+                0x08001d6e                sprintf
+ *fill*         0x08001d9a        0x2 
+ .text.proximityInit
+                0x08001d9c       0x38 ..\obj\proximity.o
+                0x08001d9c                proximityInit
+ .text.proximityCheck
+                0x08001dd4       0x20 ..\obj\proximity.o
+                0x08001dd4                proximityCheck
+ .text.colorSensorInit
+                0x08001df4        0xc ..\obj\color_sensor.o
+                0x08001df4                colorSensorInit
+ .text.checkColorSensor
+                0x08001e00       0xa4 ..\obj\color_sensor.o
+                0x08001e00                checkColorSensor
+ .text.timer5ISRCallBack
+                0x08001ea4       0xc0 ..\obj\color_sensor.o
+                0x08001ea4                timer5ISRCallBack
+ .text.GPIO_Init
+                0x08001f64      0x11a ..\obj\stm32f4xx_gpio.o
+                0x08001f64                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x0800207e       0x32 ..\obj\stm32f4xx_gpio.o
+                0x0800207e                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x080020b0       0x1c ..\obj\stm32f4xx_gpio.o
+                0x080020b0                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x080020cc       0x1c ..\obj\stm32f4xx_gpio.o
+                0x080020cc                GPIO_ResetBits
+ .text.GPIO_PinAFConfig
+                0x080020e8       0x90 ..\obj\stm32f4xx_gpio.o
+                0x080020e8                GPIO_PinAFConfig
+ .text          0x08002178       0x26 ..\obj\sh_cmd.o
+                0x08002178                SH_DoCommand
+                0x0800218a                HardFault_Handler
+ *fill*         0x0800219e        0x2 
+ .text.SystemInit
+                0x080021a0       0x5c ..\obj\system_stm32f4xx.o
+                0x080021a0                SystemInit
+ .text.SetSysClock
+                0x080021fc       0xf4 ..\obj\system_stm32f4xx.o
+ .text.sonarSetRange
+                0x080022f0       0x58 ..\obj\srf_tpa.o
+                0x080022f0                sonarSetRange
+ .text.sonarSetGain
+                0x08002348       0x3a ..\obj\srf_tpa.o
+                0x08002348                sonarSetGain
+ *fill*         0x08002382        0x2 
+ .text.tpaSetServo
+                0x08002384       0x28 ..\obj\srf_tpa.o
+                0x08002384                tpaSetServo
+ .text.tpaRead  0x080023ac       0x26 ..\obj\srf_tpa.o
+                0x080023ac                tpaRead
+ .text.getTpa81
+                0x080023d2       0x54 ..\obj\srf_tpa.o
+                0x080023d2                getTpa81
+ *fill*         0x08002426        0x2 
+ .text.tpaScanGetPosition
+                0x08002428       0xd4 ..\obj\srf_tpa.o
+                0x08002428                tpaScanGetPosition
+ .text.lcd_init
+                0x080024fc       0x78 ..\obj\lcd.o
+                0x080024fc                lcd_init
+ .text.lcd_clear
+                0x08002574       0x16 ..\obj\lcd.o
+                0x08002574                lcd_clear
+ .text.lcd_putsf
+                0x0800258a       0x3e ..\obj\lcd.o
+                0x0800258a                lcd_putsf
+ .text.P_LCD_2x16_InitIO
+                0x080025c8       0xa8 ..\obj\lcd.o
+                0x080025c8                P_LCD_2x16_InitIO
+ .text.P_LCD_2x16_PinLo
+                0x08002670       0x40 ..\obj\lcd.o
+                0x08002670                P_LCD_2x16_PinLo
+ .text.P_LCD_2x16_PinHi
+                0x080026b0       0x40 ..\obj\lcd.o
+                0x080026b0                P_LCD_2x16_PinHi
+ .text.P_LCD_2x16_Clk
+                0x080026f0       0x24 ..\obj\lcd.o
+                0x080026f0                P_LCD_2x16_Clk
+ .text.P_LCD_2x16_InitSequenz
+                0x08002714       0x68 ..\obj\lcd.o
+                0x08002714                P_LCD_2x16_InitSequenz
+ .text.P_LCD_2x16_Cmd
+                0x0800277c       0xde ..\obj\lcd.o
+                0x0800277c                P_LCD_2x16_Cmd
+ .text.P_LCD_2x16_Data
+                0x0800285a       0xde ..\obj\lcd.o
+                0x0800285a                P_LCD_2x16_Data
+ .text.lcd_gotoxy
+                0x08002938       0x4a ..\obj\lcd.o
+                0x08002938                lcd_gotoxy
+ .text.P_LCD_2x16_Delay
+                0x08002982       0x1e ..\obj\lcd.o
+                0x08002982                P_LCD_2x16_Delay
+ .text.exti0Init
+                0x080029a0       0x88 ..\obj\exti0.o
+                0x080029a0                exti0Init
+ .text.P_EXT_INT0_LoFlanke
+                0x08002a28        0xc ..\obj\exti0.o
+                0x08002a28                P_EXT_INT0_LoFlanke
+ .text.P_EXT_INT0_HiFlanke
+                0x08002a34       0x1c ..\obj\exti0.o
+                0x08002a34                P_EXT_INT0_HiFlanke
+ .text.EXTI0_IRQHandler
+                0x08002a50       0x48 ..\obj\exti0.o
+                0x08002a50                EXTI0_IRQHandler
+ .text.I2C_DeInit
+                0x08002a98       0x74 ..\obj\stm32f4xx_i2c.o
+                0x08002a98                I2C_DeInit
+ .text.I2C_Init
+                0x08002b0c      0x184 ..\obj\stm32f4xx_i2c.o
+                0x08002b0c                I2C_Init
+ .text.I2C_Cmd  0x08002c90       0x3e ..\obj\stm32f4xx_i2c.o
+                0x08002c90                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x08002cce       0x3e ..\obj\stm32f4xx_i2c.o
+                0x08002cce                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x08002d0c       0x3e ..\obj\stm32f4xx_i2c.o
+                0x08002d0c                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x08002d4a       0x3a ..\obj\stm32f4xx_i2c.o
+                0x08002d4a                I2C_Send7bitAddress
+ .text.I2C_AcknowledgeConfig
+                0x08002d84       0x3e ..\obj\stm32f4xx_i2c.o
+                0x08002d84                I2C_AcknowledgeConfig
+ .text.I2C_SoftwareResetCmd
+                0x08002dc2       0x42 ..\obj\stm32f4xx_i2c.o
+                0x08002dc2                I2C_SoftwareResetCmd
+ .text.I2C_SendData
+                0x08002e04       0x1e ..\obj\stm32f4xx_i2c.o
+                0x08002e04                I2C_SendData
+ .text.I2C_ReceiveData
+                0x08002e22       0x1a ..\obj\stm32f4xx_i2c.o
+                0x08002e22                I2C_ReceiveData
+ .text.I2C_GetFlagStatus
+                0x08002e3c       0x64 ..\obj\stm32f4xx_i2c.o
+                0x08002e3c                I2C_GetFlagStatus
+ .text.EXTI_Init
+                0x08002ea0       0xe4 ..\obj\stm32f4xx_exti.o
+                0x08002ea0                EXTI_Init
+ .text.EXTI_GetITStatus
+                0x08002f84       0x48 ..\obj\stm32f4xx_exti.o
+                0x08002f84                EXTI_GetITStatus
+ .text.EXTI_ClearITPendingBit
+                0x08002fcc       0x1c ..\obj\stm32f4xx_exti.o
+                0x08002fcc                EXTI_ClearITPendingBit
+ .text.NVIC_Init
+                0x08002fe8       0xc4 ..\obj\misc.o
+                0x08002fe8                NVIC_Init
+ .text.i2c2Init
+                0x080030ac       0xbc ..\obj\i2c2.o
+                0x080030ac                i2c2Init
+ .text.i2c2ReadByte
+                0x08003168      0x1f8 ..\obj\i2c2.o
+                0x08003168                i2c2ReadByte
+ .text.i2c2WriteByte
+                0x08003360      0x174 ..\obj\i2c2.o
+                0x08003360                i2c2WriteByte
+ .text.P_I2C2_InitI2C
+                0x080034d4       0x48 ..\obj\i2c2.o
+                0x080034d4                P_I2C2_InitI2C
+ .text.P_I2C2_timeout
+                0x0800351c       0x40 ..\obj\i2c2.o
+                0x0800351c                P_I2C2_timeout
+ .text.TIM2_IRQHandler
+                0x0800355c       0x34 ..\obj\timer2.o
+                0x0800355c                TIM2_IRQHandler
+ .text.timer2ISRCallBack
+                0x08003590        0xc ..\obj\timer2.o
+                0x08003590                timer2ISRCallBack
+ *fill*         0x0800359c        0x4 
+ .text.servoInit
+                0x080035a0      0x6c4 ..\obj\jalan_dasar2.o
+                0x080035a0                servoInit
+ .text.normalSwap0
+                0x08003c64       0xec ..\obj\jalan_dasar2.o
+                0x08003c64                normalSwap0
+ .text.normalSwap1
+                0x08003d50      0x10c ..\obj\jalan_dasar2.o
+                0x08003d50                normalSwap1
+ .text.normal   0x08003e5c       0x38 ..\obj\jalan_dasar2.o
+                0x08003e5c                normal
+ *fill*         0x08003e94        0x4 
+ .text.moveRobot
+                0x08003e98     0x11ec ..\obj\jalan_dasar2.o
+                0x08003e98                moveRobot
+ .text.setServo
+                0x08005084       0x84 ..\obj\jalan_dasar2.o
+                0x08005084                setServo
+ .text.servoGroupSend
+                0x08005108       0x18 ..\obj\jalan_dasar2.o
+                0x08005108                servoGroupSend
+ .text.setServoIK
+                0x08005120      0x634 ..\obj\jalan_dasar2.o
+                0x08005120                setServoIK
+ .text.moveServoIK
+                0x08005754       0x80 ..\obj\jalan_dasar2.o
+                0x08005754                moveServoIK
+ .text.timer4Init
+                0x080057d4       0x34 ..\obj\timer4.o
+                0x080057d4                timer4Init
+ .text.timer4InitFreq
+                0x08005808       0x9e ..\obj\timer4.o
+                0x08005808                timer4InitFreq
+ *fill*         0x080058a6        0x2 
+ .text.timer4Stop
+                0x080058a8       0x20 ..\obj\timer4.o
+                0x080058a8                timer4Stop
+ .text.P_TIM4_TIMER
+                0x080058c8       0x50 ..\obj\timer4.o
+                0x080058c8                P_TIM4_TIMER
+ .text.P_TIM4_NVIC
+                0x08005918       0x34 ..\obj\timer4.o
+                0x08005918                P_TIM4_NVIC
+ .text.TIM4_IRQHandler
+                0x0800594c       0x34 ..\obj\timer4.o
+                0x0800594c                TIM4_IRQHandler
+ .text.TIM_TimeBaseInit
+                0x08005980       0xd4 ..\obj\stm32f4xx_tim.o
+                0x08005980                TIM_TimeBaseInit
+ .text.TIM_ARRPreloadConfig
+                0x08005a54       0x3e ..\obj\stm32f4xx_tim.o
+                0x08005a54                TIM_ARRPreloadConfig
+ .text.TIM_Cmd  0x08005a92       0x3e ..\obj\stm32f4xx_tim.o
+                0x08005a92                TIM_Cmd
+ .text.TIM_ITConfig
+                0x08005ad0       0x46 ..\obj\stm32f4xx_tim.o
+                0x08005ad0                TIM_ITConfig
+ .text.TIM_GetITStatus
+                0x08005b16       0x52 ..\obj\stm32f4xx_tim.o
+                0x08005b16                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x08005b68       0x20 ..\obj\stm32f4xx_tim.o
+                0x08005b68                TIM_ClearITPendingBit
+ .text.adc1Init
+                0x08005b88       0x10 ..\obj\adc1.o
+                0x08005b88                adc1Init
+ .text.adc1Read
+                0x08005b98       0x5c ..\obj\adc1.o
+                0x08005b98                adc1Read
+ .text.P_ADC1s_InitIO
+                0x08005bf4       0x78 ..\obj\adc1.o
+                0x08005bf4                P_ADC1s_InitIO
+ .text.P_ADC1s_InitADC
+                0x08005c6c       0x64 ..\obj\adc1.o
+                0x08005c6c                P_ADC1s_InitADC
+ .text.timer5Init
+                0x08005cd0       0x34 ..\obj\timer5.o
+                0x08005cd0                timer5Init
+ .text.timer5InitFreq
+                0x08005d04       0x9e ..\obj\timer5.o
+                0x08005d04                timer5InitFreq
+ *fill*         0x08005da2        0x2 
+ .text.timer5Stop
+                0x08005da4       0x20 ..\obj\timer5.o
+                0x08005da4                timer5Stop
+ .text.P_TIM5_TIMER
+                0x08005dc4       0x50 ..\obj\timer5.o
+                0x08005dc4                P_TIM5_TIMER
+ .text.P_TIM5_NVIC
+                0x08005e14       0x34 ..\obj\timer5.o
+                0x08005e14                P_TIM5_NVIC
+ .text.TIM5_IRQHandler
+                0x08005e48       0x34 ..\obj\timer5.o
+                0x08005e48                TIM5_IRQHandler
+ *fill*         0x08005e7c        0x4 
+ .text.atan     0x08005e80      0x344 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+                0x08005e80                atan
+ .text.cos      0x080061c4       0x94 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+                0x080061c4                cos
+ .text.fabs     0x08006258        0x8 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+                0x08006258                fabs
+ .text.sin      0x08006260       0x88 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+                0x08006260                sin
+ .text.acos     0x080062e8       0xa8 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+                0x080062e8                acos
+ .text.pow      0x08006390      0x2fc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+                0x08006390                pow
+ .text.sqrt     0x0800668c       0xbc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+                0x0800668c                sqrt
+ .text.__ieee754_acos
+                0x08006748      0x4a8 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+                0x08006748                __ieee754_acos
+ .text.__ieee754_pow
+                0x08006bf0      0xa8c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+                0x08006bf0                __ieee754_pow
+ *fill*         0x0800767c        0x4 
+ .text.__ieee754_rem_pio2
+                0x08007680      0x444 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+                0x08007680                __ieee754_rem_pio2
+ .text.__ieee754_sqrt
+                0x08007ac4      0x178 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+                0x08007ac4                __ieee754_sqrt
+ *fill*         0x08007c3c        0x4 
+ .text.__kernel_cos
+                0x08007c40      0x248 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+                0x08007c40                __kernel_cos
+ .text.__kernel_rem_pio2
+                0x08007e88      0x88c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+                0x08007e88                __kernel_rem_pio2
+ *fill*         0x08008714        0x4 
+ .text.__kernel_sin
+                0x08008718      0x16c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+                0x08008718                __kernel_sin
+ .text.finite   0x08008884        0xc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+                0x08008884                finite
+ .text.floor    0x08008890      0x118 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+                0x08008890                floor
+ .text.matherr  0x080089a8        0x4 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+                0x080089a8                matherr
+ .text.nan      0x080089ac        0xc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+                0x080089ac                nan
+ .text.rint     0x080089b8      0x114 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+                0x080089b8                rint
+ *fill*         0x08008acc        0x4 
+ .text.scalbn   0x08008ad0       0xfc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+                0x08008ad0                scalbn
+ .text.copysign
+                0x08008bcc       0x10 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+                0x08008bcc                copysign
+ .text          0x08008bdc      0x370 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x08008bdc                __aeabi_drsub
+                0x08008be4                __aeabi_dsub
+                0x08008be4                __subdf3
+                0x08008be8                __aeabi_dadd
+                0x08008be8                __adddf3
+                0x08008e60                __floatunsidf
+                0x08008e60                __aeabi_ui2d
+                0x08008e80                __floatsidf
+                0x08008e80                __aeabi_i2d
+                0x08008ea4                __aeabi_f2d
+                0x08008ea4                __extendsfdf2
+                0x08008ee0                __floatundidf
+                0x08008ee0                __aeabi_ul2d
+                0x08008ef0                __floatdidf
+                0x08008ef0                __aeabi_l2d
+ .text          0x08008f4c      0x424 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x08008f4c                __aeabi_dmul
+                0x08008f4c                __muldf3
+                0x080091a0                __divdf3
+                0x080091a0                __aeabi_ddiv
+ .text          0x08009370      0x110 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+                0x08009370                __gtdf2
+                0x08009370                __gedf2
+                0x08009378                __ltdf2
+                0x08009378                __ledf2
+                0x08009380                __nedf2
+                0x08009380                __eqdf2
+                0x08009380                __cmpdf2
+                0x080093fc                __aeabi_cdrcmple
+                0x0800940c                __aeabi_cdcmpeq
+                0x0800940c                __aeabi_cdcmple
+                0x0800941c                __aeabi_dcmpeq
+                0x08009430                __aeabi_dcmplt
+                0x08009444                __aeabi_dcmple
+                0x08009458                __aeabi_dcmpge
+                0x0800946c                __aeabi_dcmpgt
+ .text          0x08009480       0x2c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+                0x08009480                __unorddf2
+                0x08009480                __aeabi_dcmpun
+ .text          0x080094ac       0x50 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+                0x080094ac                __aeabi_d2iz
+                0x080094ac                __fixdfsi
+ .text          0x080094fc       0x40 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x080094fc                __aeabi_d2uiz
+                0x080094fc                __fixunsdfsi
+ .text          0x0800953c      0x21c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x0800953c                __aeabi_frsub
+                0x08009544                __subsf3
+                0x08009544                __aeabi_fsub
+                0x08009548                __aeabi_fadd
+                0x08009548                __addsf3
+                0x080096a8                __aeabi_ui2f
+                0x080096a8                __floatunsisf
+                0x080096b0                __aeabi_i2f
+                0x080096b0                __floatsisf
+                0x080096cc                __aeabi_ul2f
+                0x080096cc                __floatundisf
+                0x080096dc                __aeabi_l2f
+                0x080096dc                __floatdisf
+ .text          0x08009758      0x2a0 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x08009758                __mulsf3
+                0x08009758                __aeabi_fmul
+                0x080098c0                __aeabi_fdiv
+                0x080098c0                __divsf3
+ .text          0x080099f8       0x40 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+                0x080099f8                __fixunssfsi
+                0x080099f8                __aeabi_f2uiz
+ .text.__errno  0x08009a38        0xc d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+                0x08009a38                __errno
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x08009a44       0x59 ..\obj\main.o
+ *fill*         0x08009a9d        0x3 
+ .rodata        0x08009aa0       0x35 ..\obj\jalan_dasar2.o
+                0x08009aa0                offsetY
+                0x08009aa8                normalZ
+                0x08009ab0                normalXMid
+                0x08009ab8                normalXY
+                0x08009ac0                zUp
+ *fill*         0x08009ad5        0x3 
+ .rodata.atanhi
+                0x08009ad8       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .rodata.atanlo
+                0x08009af8       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .rodata.acos.str1.4
+                0x08009b18        0x5 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+                                  0x9 (size before relaxing)
+ *fill*         0x08009b1d        0x3 
+ .rodata.pow.str1.4
+                0x08009b20        0x4 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .rodata.sqrt.str1.4
+                0x08009b24        0x8 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+                                  0x5 (size before relaxing)
+ .rodata.__ieee754_pow.str1.4
+                0x08009b2c        0x1 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .rodata.npio2_hw
+                0x08009b2c       0x80 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x08009bac      0x108 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ *fill*         0x08009cb4        0x4 
+ .rodata.PIo2   0x08009cb8       0x40 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.init_jk
+                0x08009cf8       0x10 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.TWO52  0x08009d08       0x10 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ *(.eh_fram e*)
+
+.glue_7         0x08009d18        0x0
+ .glue_7        0x08009d18        0x0 linker stubs
+
+.glue_7t        0x08009d18        0x0
+ .glue_7t       0x08009d18        0x0 linker stubs
+
+.vfp11_veneer   0x08009d18        0x0
+ .vfp11_veneer  0x08009d18        0x0 linker stubs
+
+.v4_bx          0x08009d18        0x0
+ .v4_bx         0x08009d18        0x0 linker stubs
+
+.iplt           0x08009d18        0x0
+ .iplt          0x08009d18        0x0 ..\obj\semihosting.o
+
+.rel.dyn        0x08009d18        0x0
+ .rel.iplt      0x08009d18        0x0 ..\obj\semihosting.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08009d18                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08009d18                __exidx_end = .
+                0x08009d18                __etext = .
+                0x08009d18                _sidata = __etext
+
+.data           0x20000000      0x678 load address 0x08009d18
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x70 ..\obj\uart.o
+                0x20000000                UART
+ .data          0x20000070       0x10 ..\obj\stm32f4xx_rcc.o
+ .data          0x20000080      0x42c ..\obj\printf.o
+                0x20000080                r
+                0x200004a8                _impure_ptr
+ .data          0x200004ac       0x60 ..\obj\color_sensor.o
+                0x200004ac                blackThresholdAddress
+                0x200004c4                whiteThresholdAddress
+                0x200004dc                blackThreshold
+                0x200004f4                whiteThreshold
+ .data          0x2000050c       0x14 ..\obj\system_stm32f4xx.o
+                0x2000050c                SystemCoreClock
+                0x20000510                AHBPrescTable
+ .data          0x20000520        0x6 ..\obj\srf_tpa.o
+                0x20000520                maxRange
+                0x20000522                position
+                0x20000524                tpa81Max
+ *fill*         0x20000526        0x2 
+ .data          0x20000528       0x78 ..\obj\lcd.o
+                0x20000528                LCD_2X16
+ .data          0x200005a0       0x10 ..\obj\exti0.o
+                0x200005a0                EXT_INT0
+ .data          0x200005b0       0x20 ..\obj\i2c2.o
+                0x200005b0                I2C2DEV
+ .data          0x200005d0        0x1 ..\obj\jalan_dasar2.o
+ *fill*         0x200005d1        0x3 
+ .data          0x200005d4       0xa0 ..\obj\adc1.o
+                0x200005d4                ADC1s
+ .data.__fdlib_version
+                0x20000674        0x1 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000674                __fdlib_version
+                0x20000678                . = ALIGN (0x4)
+ *fill*         0x20000675        0x3 
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+                0x20000678                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+                0x20000678                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000678                . = ALIGN (0x4)
+                0x20000678                __data_end__ = .
+                0x20000678                _edata = __data_end__
+
+.igot.plt       0x20000678        0x0 load address 0x0800a390
+ .igot.plt      0x20000678        0x0 ..\obj\semihosting.o
+
+.bss            0x20000678     0x1534 load address 0x0800a390
+                0x20000678                . = ALIGN (0x4)
+                0x20000678                __bss_start__ = .
+                0x20000678                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x20000678        0xd ..\obj\delay.o
+                0x20000684                delayInitialized
+ *fill*         0x20000685        0x3 
+ .bss           0x20000688       0x10 ..\obj\timer7.o
+                0x20000694                tim7_enable_flag
+ .bss           0x20000698     0x1004 ..\obj\tombol.o
+ .bss           0x2000169c        0xc ..\obj\color_sensor.o
+                0x2000169c                color
+ .bss           0x200016a8       0x18 ..\obj\srf_tpa.o
+                0x200016b4                stopSearch
+                0x200016b5                tpa81Fire
+                0x200016b6                tpa81Ok
+                0x200016b7                proximityDetected
+                0x200016b8                tpa81Value
+                0x200016ba                oldTpa81Value
+                0x200016bc                tpa81Correct
+                0x200016be                tpa81ValueStop
+ .bss           0x200016c0        0xd ..\obj\exti0.o
+                0x200016cc                photon
+ .bss           0x200016cd        0x1 ..\obj\i2c2.o
+ *fill*         0x200016ce        0x2 
+ .bss           0x200016d0        0x4 ..\obj\timer2.o
+                0x200016d0                tim2_enable_flag
+ *fill*         0x200016d4        0x4 
+ .bss           0x200016d8       0x1a ..\obj\jalan_dasar2.o
+                0x200016e8                test
+                0x200016f1                wf
+ *fill*         0x200016f2        0x2 
+ .bss           0x200016f4        0x4 ..\obj\timer4.o
+                0x200016f4                tim4_enable_flag
+ .bss           0x200016f8        0x4 ..\obj\timer5.o
+                0x200016f8                tim5_enable_flag
+ *(COMMON)
+ COMMON         0x200016fc       0x38 ..\obj\uart.o
+                0x200016fc                UART_RX
+ *fill*         0x20001734        0x4 
+ COMMON         0x20001738      0x470 ..\obj\jalan_dasar2.o
+                0x20001738                eins
+                0x20001740                tibiaPos
+                0x20001748                right
+                0x20001958                femurAngle
+                0x20001960                left
+                0x20001b70                coxaPos
+                0x20001b78                tibiaAngle
+                0x20001b80                coxaAngle
+                0x20001b88                vier
+                0x20001b90                zwei
+                0x20001b98                femurPos
+                0x20001ba0                drei
+ COMMON         0x20001ba8        0x2 ..\obj\timer5.o
+                0x20001ba8                colorTarget
+                0x20001ba9                colorMatch
+                0x20001bac                . = ALIGN (0x4)
+ *fill*         0x20001baa        0x2 
+                0x20001bac                __bss_end__ = .
+                0x20001bac                _ebss = __bss_end__
+
+.heap           0x20001bac        0x0
+                0x20001bac                __end__ = .
+                0x20001bac                _end = __end__
+                0x20001bac                end = __end__
+ *(.heap*)
+                0x20001bac                __HeapLimit = .
+
+.co_stack       0x20001bac      0x804 load address 0x0800b8c4
+                0x20001bb0                . = ALIGN (0x8)
+ *fill*         0x20001bac        0x4 
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20001bb0      0x800 ..\obj\startup_stm32f4xx.o
+                0x20001bb0                pulStack
+                0x20010000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x2000f7fc                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\semihosting.o
+LOAD ..\obj\stm32f4xx_syscfg.o
+LOAD ..\obj\navigasi.o
+LOAD ..\obj\delay.o
+LOAD ..\obj\timer7.o
+LOAD ..\obj\stm32f4xx_usart.o
+LOAD ..\obj\stm32f4xx_pwr.o
+LOAD ..\obj\uart.o
+LOAD ..\obj\tombol.o
+LOAD ..\obj\startup_stm32f4xx.o
+LOAD ..\obj\kipas.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32f4xx_rcc.o
+LOAD ..\obj\stm32f4xx_adc.o
+LOAD ..\obj\printf.o
+LOAD ..\obj\proximity.o
+LOAD ..\obj\color_sensor.o
+LOAD ..\obj\menu.o
+LOAD ..\obj\stm32f4xx_gpio.o
+LOAD ..\obj\stm32f4xx_flash.o
+LOAD ..\obj\sh_cmd.o
+LOAD ..\obj\system_stm32f4xx.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\srf_tpa.o
+LOAD ..\obj\lcd.o
+LOAD ..\obj\exti0.o
+LOAD ..\obj\stm32f4xx_i2c.o
+LOAD ..\obj\stm32f4xx_exti.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\i2c2.o
+LOAD ..\obj\timer2.o
+LOAD ..\obj\wall_following_kanan.o
+LOAD ..\obj\jalan_dasar2.o
+LOAD ..\obj\timer4.o
+LOAD ..\obj\stm32f4xx_tim.o
+LOAD ..\obj\adc1.o
+LOAD ..\obj\timer5.o
+LOAD ..\obj\wall_following_kiri.o
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+START GROUP
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libg.a
+LOAD d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+END GROUP
+OUTPUT(Reinhardt2.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x12797
+ .debug_info    0x00000000      0x27f ..\obj\stm32f4xx_syscfg.o
+ .debug_info    0x0000027f      0x7b8 ..\obj\delay.o
+ .debug_info    0x00000a37      0x837 ..\obj\timer7.o
+ .debug_info    0x0000126e      0x9d1 ..\obj\stm32f4xx_usart.o
+ .debug_info    0x00001c3f      0xc80 ..\obj\uart.o
+ .debug_info    0x000028bf      0x509 ..\obj\tombol.o
+ .debug_info    0x00002dc8      0x10f ..\obj\startup_stm32f4xx.o
+ .debug_info    0x00002ed7      0x2de ..\obj\kipas.o
+ .debug_info    0x000031b5     0x102d ..\obj\main.o
+ .debug_info    0x000041e2      0xc6e ..\obj\stm32f4xx_rcc.o
+ .debug_info    0x00004e50      0xc4b ..\obj\stm32f4xx_adc.o
+ .debug_info    0x00005a9b      0xe5c ..\obj\printf.o
+ .debug_info    0x000068f7      0x391 ..\obj\proximity.o
+ .debug_info    0x00006c88      0xe69 ..\obj\color_sensor.o
+ .debug_info    0x00007af1      0x621 ..\obj\stm32f4xx_gpio.o
+ .debug_info    0x00008112       0x83 ..\obj\sh_cmd.o
+ .debug_info    0x00008195      0x5cc ..\obj\system_stm32f4xx.o
+ .debug_info    0x00008761      0x506 ..\obj\srf_tpa.o
+ .debug_info    0x00008c67     0x1137 ..\obj\lcd.o
+ .debug_info    0x00009d9e     0x129e ..\obj\exti0.o
+ .debug_info    0x0000b03c      0xb07 ..\obj\stm32f4xx_i2c.o
+ .debug_info    0x0000bb43      0x362 ..\obj\stm32f4xx_exti.o
+ .debug_info    0x0000bea5      0x549 ..\obj\misc.o
+ .debug_info    0x0000c3ee      0x892 ..\obj\i2c2.o
+ .debug_info    0x0000cc80      0x78e ..\obj\timer2.o
+ .debug_info    0x0000d40e     0x1754 ..\obj\jalan_dasar2.o
+ .debug_info    0x0000eb62      0x77d ..\obj\timer4.o
+ .debug_info    0x0000f2df     0x1c70 ..\obj\stm32f4xx_tim.o
+ .debug_info    0x00010f4f      0x6d5 ..\obj\adc1.o
+ .debug_info    0x00011624     0x1173 ..\obj\timer5.o
+
+.debug_abbrev   0x00000000     0x3730
+ .debug_abbrev  0x00000000      0x144 ..\obj\stm32f4xx_syscfg.o
+ .debug_abbrev  0x00000144      0x1d8 ..\obj\delay.o
+ .debug_abbrev  0x0000031c      0x166 ..\obj\timer7.o
+ .debug_abbrev  0x00000482      0x180 ..\obj\stm32f4xx_usart.o
+ .debug_abbrev  0x00000602      0x284 ..\obj\uart.o
+ .debug_abbrev  0x00000886      0x1fc ..\obj\tombol.o
+ .debug_abbrev  0x00000a82       0xbf ..\obj\startup_stm32f4xx.o
+ .debug_abbrev  0x00000b41      0x126 ..\obj\kipas.o
+ .debug_abbrev  0x00000c67      0x2f5 ..\obj\main.o
+ .debug_abbrev  0x00000f5c      0x1f6 ..\obj\stm32f4xx_rcc.o
+ .debug_abbrev  0x00001152      0x1a9 ..\obj\stm32f4xx_adc.o
+ .debug_abbrev  0x000012fb      0x28e ..\obj\printf.o
+ .debug_abbrev  0x00001589      0x18e ..\obj\proximity.o
+ .debug_abbrev  0x00001717      0x301 ..\obj\color_sensor.o
+ .debug_abbrev  0x00001a18      0x1b6 ..\obj\stm32f4xx_gpio.o
+ .debug_abbrev  0x00001bce       0x14 ..\obj\sh_cmd.o
+ .debug_abbrev  0x00001be2      0x156 ..\obj\system_stm32f4xx.o
+ .debug_abbrev  0x00001d38      0x182 ..\obj\srf_tpa.o
+ .debug_abbrev  0x00001eba      0x316 ..\obj\lcd.o
+ .debug_abbrev  0x000021d0      0x2de ..\obj\exti0.o
+ .debug_abbrev  0x000024ae      0x18f ..\obj\stm32f4xx_i2c.o
+ .debug_abbrev  0x0000263d      0x1ba ..\obj\stm32f4xx_exti.o
+ .debug_abbrev  0x000027f7      0x170 ..\obj\misc.o
+ .debug_abbrev  0x00002967      0x208 ..\obj\i2c2.o
+ .debug_abbrev  0x00002b6f      0x17e ..\obj\timer2.o
+ .debug_abbrev  0x00002ced      0x313 ..\obj\jalan_dasar2.o
+ .debug_abbrev  0x00003000      0x166 ..\obj\timer4.o
+ .debug_abbrev  0x00003166      0x198 ..\obj\stm32f4xx_tim.o
+ .debug_abbrev  0x000032fe      0x190 ..\obj\adc1.o
+ .debug_abbrev  0x0000348e      0x2a2 ..\obj\timer5.o
+
+.debug_aranges  0x00000000     0x10f8
+ .debug_aranges
+                0x00000000       0x48 ..\obj\stm32f4xx_syscfg.o
+ .debug_aranges
+                0x00000048       0x78 ..\obj\delay.o
+ .debug_aranges
+                0x000000c0       0x58 ..\obj\timer7.o
+ .debug_aranges
+                0x00000118      0x100 ..\obj\stm32f4xx_usart.o
+ .debug_aranges
+                0x00000218       0x90 ..\obj\uart.o
+ .debug_aranges
+                0x000002a8       0x98 ..\obj\tombol.o
+ .debug_aranges
+                0x00000340       0x28 ..\obj\startup_stm32f4xx.o
+ .debug_aranges
+                0x00000368       0x30 ..\obj\kipas.o
+ .debug_aranges
+                0x00000398       0x58 ..\obj\main.o
+ .debug_aranges
+                0x000003f0      0x178 ..\obj\stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000568      0x148 ..\obj\stm32f4xx_adc.o
+ .debug_aranges
+                0x000006b0       0xa0 ..\obj\printf.o
+ .debug_aranges
+                0x00000750       0x30 ..\obj\proximity.o
+ .debug_aranges
+                0x00000780       0x60 ..\obj\color_sensor.o
+ .debug_aranges
+                0x000007e0       0x88 ..\obj\stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000868       0x20 ..\obj\sh_cmd.o
+ .debug_aranges
+                0x00000888       0x30 ..\obj\system_stm32f4xx.o
+ .debug_aranges
+                0x000008b8       0x78 ..\obj\srf_tpa.o
+ .debug_aranges
+                0x00000930       0x80 ..\obj\lcd.o
+ .debug_aranges
+                0x000009b0       0x48 ..\obj\exti0.o
+ .debug_aranges
+                0x000009f8      0x120 ..\obj\stm32f4xx_i2c.o
+ .debug_aranges
+                0x00000b18       0x58 ..\obj\stm32f4xx_exti.o
+ .debug_aranges
+                0x00000b70       0x40 ..\obj\misc.o
+ .debug_aranges
+                0x00000bb0       0x70 ..\obj\i2c2.o
+ .debug_aranges
+                0x00000c20       0x58 ..\obj\timer2.o
+ .debug_aranges
+                0x00000c78       0xa8 ..\obj\jalan_dasar2.o
+ .debug_aranges
+                0x00000d20       0x50 ..\obj\timer4.o
+ .debug_aranges
+                0x00000d70      0x2f8 ..\obj\stm32f4xx_tim.o
+ .debug_aranges
+                0x00001068       0x40 ..\obj\adc1.o
+ .debug_aranges
+                0x000010a8       0x50 ..\obj\timer5.o
+
+.debug_ranges   0x00000000      0xf68
+ .debug_ranges  0x00000000       0x38 ..\obj\stm32f4xx_syscfg.o
+ .debug_ranges  0x00000038       0x68 ..\obj\delay.o
+ .debug_ranges  0x000000a0       0x48 ..\obj\timer7.o
+ .debug_ranges  0x000000e8       0xf0 ..\obj\stm32f4xx_usart.o
+ .debug_ranges  0x000001d8       0x80 ..\obj\uart.o
+ .debug_ranges  0x00000258       0x88 ..\obj\tombol.o
+ .debug_ranges  0x000002e0       0x18 ..\obj\startup_stm32f4xx.o
+ .debug_ranges  0x000002f8       0x20 ..\obj\kipas.o
+ .debug_ranges  0x00000318       0x60 ..\obj\main.o
+ .debug_ranges  0x00000378      0x168 ..\obj\stm32f4xx_rcc.o
+ .debug_ranges  0x000004e0      0x138 ..\obj\stm32f4xx_adc.o
+ .debug_ranges  0x00000618       0x90 ..\obj\printf.o
+ .debug_ranges  0x000006a8       0x20 ..\obj\proximity.o
+ .debug_ranges  0x000006c8       0x50 ..\obj\color_sensor.o
+ .debug_ranges  0x00000718       0x78 ..\obj\stm32f4xx_gpio.o
+ .debug_ranges  0x00000790       0x20 ..\obj\system_stm32f4xx.o
+ .debug_ranges  0x000007b0       0x68 ..\obj\srf_tpa.o
+ .debug_ranges  0x00000818       0x70 ..\obj\lcd.o
+ .debug_ranges  0x00000888       0x38 ..\obj\exti0.o
+ .debug_ranges  0x000008c0      0x110 ..\obj\stm32f4xx_i2c.o
+ .debug_ranges  0x000009d0       0x48 ..\obj\stm32f4xx_exti.o
+ .debug_ranges  0x00000a18       0x30 ..\obj\misc.o
+ .debug_ranges  0x00000a48       0x60 ..\obj\i2c2.o
+ .debug_ranges  0x00000aa8       0x48 ..\obj\timer2.o
+ .debug_ranges  0x00000af0       0xe0 ..\obj\jalan_dasar2.o
+ .debug_ranges  0x00000bd0       0x40 ..\obj\timer4.o
+ .debug_ranges  0x00000c10      0x2e8 ..\obj\stm32f4xx_tim.o
+ .debug_ranges  0x00000ef8       0x30 ..\obj\adc1.o
+ .debug_ranges  0x00000f28       0x40 ..\obj\timer5.o
+
+.debug_line     0x00000000     0x74bb
+ .debug_line    0x00000000      0x223 ..\obj\stm32f4xx_syscfg.o
+ .debug_line    0x00000223      0x2e5 ..\obj\delay.o
+ .debug_line    0x00000508      0x313 ..\obj\timer7.o
+ .debug_line    0x0000081b      0x4c1 ..\obj\stm32f4xx_usart.o
+ .debug_line    0x00000cdc      0x4b4 ..\obj\uart.o
+ .debug_line    0x00001190      0x353 ..\obj\tombol.o
+ .debug_line    0x000014e3       0x91 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x00001574      0x212 ..\obj\kipas.o
+ .debug_line    0x00001786      0x4d6 ..\obj\main.o
+ .debug_line    0x00001c5c      0x5ad ..\obj\stm32f4xx_rcc.o
+ .debug_line    0x00002209      0x565 ..\obj\stm32f4xx_adc.o
+ .debug_line    0x0000276e      0x382 ..\obj\printf.o
+ .debug_line    0x00002af0      0x25a ..\obj\proximity.o
+ .debug_line    0x00002d4a      0x5cb ..\obj\color_sensor.o
+ .debug_line    0x00003315      0x368 ..\obj\stm32f4xx_gpio.o
+ .debug_line    0x0000367d       0x6f ..\obj\sh_cmd.o
+ .debug_line    0x000036ec      0x20a ..\obj\system_stm32f4xx.o
+ .debug_line    0x000038f6      0x352 ..\obj\srf_tpa.o
+ .debug_line    0x00003c48      0x5cc ..\obj\lcd.o
+ .debug_line    0x00004214      0x470 ..\obj\exti0.o
+ .debug_line    0x00004684      0x4f3 ..\obj\stm32f4xx_i2c.o
+ .debug_line    0x00004b77      0x2a9 ..\obj\stm32f4xx_exti.o
+ .debug_line    0x00004e20      0x246 ..\obj\misc.o
+ .debug_line    0x00005066      0x681 ..\obj\i2c2.o
+ .debug_line    0x000056e7      0x2ae ..\obj\timer2.o
+ .debug_line    0x00005995      0x75c ..\obj\jalan_dasar2.o
+ .debug_line    0x000060f1      0x29d ..\obj\timer4.o
+ .debug_line    0x0000638e      0xac9 ..\obj\stm32f4xx_tim.o
+ .debug_line    0x00006e57      0x2df ..\obj\adc1.o
+ .debug_line    0x00007136      0x385 ..\obj\timer5.o
+
+.debug_str      0x00000000     0x48f7
+ .debug_str     0x00000000      0x296 ..\obj\stm32f4xx_syscfg.o
+                                0x2f4 (size before relaxing)
+ .debug_str     0x00000296      0x6db ..\obj\delay.o
+                                0x847 (size before relaxing)
+ .debug_str     0x00000971      0x378 ..\obj\timer7.o
+                                0xa4f (size before relaxing)
+ .debug_str     0x00000ce9      0x42e ..\obj\stm32f4xx_usart.o
+                                0x68f (size before relaxing)
+ .debug_str     0x00001117      0x3c0 ..\obj\uart.o
+                                0xbd0 (size before relaxing)
+ .debug_str     0x000014d7      0x14a ..\obj\tombol.o
+                                0x4b9 (size before relaxing)
+ .debug_str     0x00001621       0xb2 ..\obj\startup_stm32f4xx.o
+                                0x149 (size before relaxing)
+ .debug_str     0x000016d3       0x4a ..\obj\kipas.o
+                                0x351 (size before relaxing)
+ .debug_str     0x0000171d      0x62c ..\obj\main.o
+                                0x903 (size before relaxing)
+ .debug_str     0x00001d49      0x5c8 ..\obj\stm32f4xx_rcc.o
+                                0x850 (size before relaxing)
+ .debug_str     0x00002311      0x62a ..\obj\stm32f4xx_adc.o
+                                0x804 (size before relaxing)
+ .debug_str     0x0000293b       0xfc ..\obj\printf.o
+                                0x66d (size before relaxing)
+ .debug_str     0x00002a37       0x5e ..\obj\proximity.o
+                                0x3a2 (size before relaxing)
+ .debug_str     0x00002a95      0x14a ..\obj\color_sensor.o
+                                0x7b4 (size before relaxing)
+ .debug_str     0x00002bdf      0x188 ..\obj\stm32f4xx_gpio.o
+                                0x4a3 (size before relaxing)
+ .debug_str     0x00002d67       0xa4 ..\obj\system_stm32f4xx.o
+                                0x39a (size before relaxing)
+ .debug_str     0x00002e0b      0x144 ..\obj\srf_tpa.o
+                                0x36a (size before relaxing)
+ .debug_str     0x00002f4f      0x1a2 ..\obj\lcd.o
+                                0xb39 (size before relaxing)
+ .debug_str     0x000030f1      0x1c1 ..\obj\exti0.o
+                               0x107b (size before relaxing)
+ .debug_str     0x000032b2      0x3b2 ..\obj\stm32f4xx_i2c.o
+                                0x665 (size before relaxing)
+ .debug_str     0x00003664       0xf0 ..\obj\stm32f4xx_exti.o
+                                0x359 (size before relaxing)
+ .debug_str     0x00003754       0xfc ..\obj\misc.o
+                                0x3ce (size before relaxing)
+ .debug_str     0x00003850      0x109 ..\obj\i2c2.o
+                                0x543 (size before relaxing)
+ .debug_str     0x00003959       0xa9 ..\obj\timer2.o
+                                0x9be (size before relaxing)
+ .debug_str     0x00003a02      0x1cd ..\obj\jalan_dasar2.o
+                                0x94e (size before relaxing)
+ .debug_str     0x00003bcf       0x97 ..\obj\timer4.o
+                                0x9ac (size before relaxing)
+ .debug_str     0x00003c66      0xa76 ..\obj\stm32f4xx_tim.o
+                                0xdd0 (size before relaxing)
+ .debug_str     0x000046dc      0x184 ..\obj\adc1.o
+                                0x5f6 (size before relaxing)
+ .debug_str     0x00004860       0x97 ..\obj\timer5.o
+                                0xe97 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ..\obj\stm32f4xx_syscfg.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ..\obj\delay.o
+ .comment       0x0000006e       0x6f ..\obj\timer7.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_usart.o
+ .comment       0x0000006e       0x6f ..\obj\uart.o
+ .comment       0x0000006e       0x6f ..\obj\tombol.o
+ .comment       0x0000006e       0x6f ..\obj\startup_stm32f4xx.o
+ .comment       0x0000006e       0x6f ..\obj\kipas.o
+ .comment       0x0000006e       0x6f ..\obj\main.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_rcc.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_adc.o
+ .comment       0x0000006e       0x6f ..\obj\printf.o
+ .comment       0x0000006e       0x6f ..\obj\proximity.o
+ .comment       0x0000006e       0x6f ..\obj\color_sensor.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_gpio.o
+ .comment       0x0000006e       0x6f ..\obj\system_stm32f4xx.o
+ .comment       0x0000006e       0x6f ..\obj\srf_tpa.o
+ .comment       0x0000006e       0x6f ..\obj\lcd.o
+ .comment       0x0000006e       0x6f ..\obj\exti0.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_i2c.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_exti.o
+ .comment       0x0000006e       0x6f ..\obj\misc.o
+ .comment       0x0000006e       0x6f ..\obj\i2c2.o
+ .comment       0x0000006e       0x6f ..\obj\timer2.o
+ .comment       0x0000006e       0x6f ..\obj\jalan_dasar2.o
+ .comment       0x0000006e       0x6f ..\obj\timer4.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_tim.o
+ .comment       0x0000006e       0x6f ..\obj\adc1.o
+ .comment       0x0000006e       0x6f ..\obj\timer5.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000033       0x33 ..\obj\delay.o
+ .ARM.attributes
+                0x00000066       0x33 ..\obj\timer7.o
+ .ARM.attributes
+                0x00000099       0x33 ..\obj\stm32f4xx_usart.o
+ .ARM.attributes
+                0x000000cc       0x33 ..\obj\uart.o
+ .ARM.attributes
+                0x000000ff       0x33 ..\obj\tombol.o
+ .ARM.attributes
+                0x00000132       0x33 ..\obj\startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000165       0x33 ..\obj\kipas.o
+ .ARM.attributes
+                0x00000198       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x000001cb       0x33 ..\obj\stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000001fe       0x33 ..\obj\stm32f4xx_adc.o
+ .ARM.attributes
+                0x00000231       0x33 ..\obj\printf.o
+ .ARM.attributes
+                0x00000264       0x33 ..\obj\proximity.o
+ .ARM.attributes
+                0x00000297       0x33 ..\obj\color_sensor.o
+ .ARM.attributes
+                0x000002ca       0x33 ..\obj\stm32f4xx_gpio.o
+ .ARM.attributes
+                0x000002fd       0x21 ..\obj\sh_cmd.o
+ .ARM.attributes
+                0x0000031e       0x33 ..\obj\system_stm32f4xx.o
+ .ARM.attributes
+                0x00000351       0x33 ..\obj\srf_tpa.o
+ .ARM.attributes
+                0x00000384       0x33 ..\obj\lcd.o
+ .ARM.attributes
+                0x000003b7       0x33 ..\obj\exti0.o
+ .ARM.attributes
+                0x000003ea       0x33 ..\obj\stm32f4xx_i2c.o
+ .ARM.attributes
+                0x0000041d       0x33 ..\obj\stm32f4xx_exti.o
+ .ARM.attributes
+                0x00000450       0x33 ..\obj\misc.o
+ .ARM.attributes
+                0x00000483       0x33 ..\obj\i2c2.o
+ .ARM.attributes
+                0x000004b6       0x33 ..\obj\timer2.o
+ .ARM.attributes
+                0x000004e9       0x33 ..\obj\jalan_dasar2.o
+ .ARM.attributes
+                0x0000051c       0x33 ..\obj\timer4.o
+ .ARM.attributes
+                0x0000054f       0x33 ..\obj\stm32f4xx_tim.o
+ .ARM.attributes
+                0x00000582       0x33 ..\obj\adc1.o
+ .ARM.attributes
+                0x000005b5       0x33 ..\obj\timer5.o
+ .ARM.attributes
+                0x000005e8       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x00000616       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+ .ARM.attributes
+                0x00000644       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000672       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+ .ARM.attributes
+                0x000006a0       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+ .ARM.attributes
+                0x000006ce       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x000006fc       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x0000072a       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+ .ARM.attributes
+                0x00000758       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000786       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x000007b4       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x000007e2       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x00000810       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x0000083e       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x0000086c       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x0000089a       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x000008c8       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000008f6       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000924       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000952       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000980       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000009ae       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000009dc       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000009fa       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000a18       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000a36       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000a54       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000a72       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000a90       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000aae       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000acc       0x1e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000aea       0x2e d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)
+
+.debug_frame    0x00000000     0x4d24
+ .debug_frame   0x00000000       0xf4 ..\obj\stm32f4xx_syscfg.o
+ .debug_frame   0x000000f4      0x1b8 ..\obj\delay.o
+ .debug_frame   0x000002ac      0x11c ..\obj\timer7.o
+ .debug_frame   0x000003c8      0x490 ..\obj\stm32f4xx_usart.o
+ .debug_frame   0x00000858      0x244 ..\obj\uart.o
+ .debug_frame   0x00000a9c      0x1e8 ..\obj\tombol.o
+ .debug_frame   0x00000c84       0x4c ..\obj\startup_stm32f4xx.o
+ .debug_frame   0x00000cd0       0x6c ..\obj\kipas.o
+ .debug_frame   0x00000d3c      0x140 ..\obj\main.o
+ .debug_frame   0x00000e7c      0x6d4 ..\obj\stm32f4xx_rcc.o
+ .debug_frame   0x00001550      0x5ec ..\obj\stm32f4xx_adc.o
+ .debug_frame   0x00001b3c      0x2d8 ..\obj\printf.o
+ .debug_frame   0x00001e14       0x74 ..\obj\proximity.o
+ .debug_frame   0x00001e88      0x164 ..\obj\color_sensor.o
+ .debug_frame   0x00001fec      0x23c ..\obj\stm32f4xx_gpio.o
+ .debug_frame   0x00002228       0x7c ..\obj\system_stm32f4xx.o
+ .debug_frame   0x000022a4      0x1c8 ..\obj\srf_tpa.o
+ .debug_frame   0x0000246c      0x1d8 ..\obj\lcd.o
+ .debug_frame   0x00002644       0xe4 ..\obj\exti0.o
+ .debug_frame   0x00002728      0x530 ..\obj\stm32f4xx_i2c.o
+ .debug_frame   0x00002c58      0x148 ..\obj\stm32f4xx_exti.o
+ .debug_frame   0x00002da0       0xd8 ..\obj\misc.o
+ .debug_frame   0x00002e78      0x1a8 ..\obj\i2c2.o
+ .debug_frame   0x00003020      0x114 ..\obj\timer2.o
+ .debug_frame   0x00003134      0x34c ..\obj\jalan_dasar2.o
+ .debug_frame   0x00003480       0xf8 ..\obj\timer4.o
+ .debug_frame   0x00003578      0xe54 ..\obj\stm32f4xx_tim.o
+ .debug_frame   0x000043cc       0xbc ..\obj\adc1.o
+ .debug_frame   0x00004488      0x100 ..\obj\timer5.o
+ .debug_frame   0x00004588       0x38 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x000045c0       0x38 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_cos.o)
+ .debug_frame   0x000045f8       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00004618       0x38 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_sin.o)
+ .debug_frame   0x00004650       0x3c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_acos.o)
+ .debug_frame   0x0000468c       0x48 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x000046d4       0x44 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x00004718       0x38 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_acos.o)
+ .debug_frame   0x00004750       0x64 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x000047b4       0x48 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x000047fc       0x34 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00004830       0x4c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x0000487c       0x50 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x000048cc       0x48 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x00004914       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x00004934       0x34 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00004968       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00004988       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x000049a8       0x3c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x000049e4       0x30 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00004a14       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00004a34       0xac d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00004ae0       0x50 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00004b30       0xc4 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00004bf4       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00004c14       0x24 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00004c38       0x24 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00004c5c       0x4c d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00004ca8       0x38 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00004ce0       0x24 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00004d04       0x20 d:/trui/installer/gcc-arm-none-eabi-6_2-2016q4-20161216-win32-zip/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-errno.o)

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F401VC -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -ID:\TRUI -ID:\TRUI\KRPAI 2017\coba\cmsis -ID:\TRUI\KRPAI 2017\coba -ID:\TRUI\KRPAI 2017\coba\cmsis_lib\include -ID:\TRUI\KRPAI 2017\coba\lib\Include -ID:\TRUI\KRPAI 2017\coba\cmsis_lib -ID:\TRUI\KRPAI 2017\coba\semihosting -ID:\TRUI\KRPAI 2017\coba\cmsis_boot -ID:\TRUI\KRPAI 2017\coba\lib -ID:\TRUI\KRPAI 2017">
+      <target file="uart.o" lastModified="15e52466b4e">
+         <source file="..\..\..\lib\Source\uart.c" lastModified="15e524667d7"/>
+      </target>
+      <target file="srf_tpa.o" lastModified="15e51ecbce4">
+         <source file="..\..\..\lib\Source\srf_tpa.c" lastModified="15e321a270b"/>
+      </target>
+      <target file="syscalls.o" lastModified="15e51ecbc33">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="15e321a2989"/>
+      </target>
+      <target file="menu.o" lastModified="15e51ecb917">
+         <source file="..\..\..\lib\Include\menu.c" lastModified="15e321a265c"/>
+      </target>
+      <target file="misc.o" lastModified="15e51ecc17f">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15e321a25da"/>
+      </target>
+      <target file="kipas.o" lastModified="15e51ecb1b4">
+         <source file="..\..\..\lib\Source\kipas.c" lastModified="15e321a26ea"/>
+      </target>
+      <target file="navigasi.o" lastModified="15e51ecac69">
+         <source file="..\..\..\lib\Source\navigasi.c" lastModified="15e321a26ff"/>
+      </target>
+      <target file="sh_cmd.o" lastModified="15e51ecbae2">
+         <source file="..\..\..\semihosting\sh_cmd.s" lastModified="15e321a2979"/>
+      </target>
+      <target file="i2c2.o" lastModified="15e51ecc2ae">
+         <source file="..\..\..\lib\Source\i2c2.c" lastModified="15e321a26d2"/>
+      </target>
+      <target file="timer7.o" lastModified="15e51ecad9a">
+         <source file="..\..\..\lib\Source\timer7.c" lastModified="15e321a2722"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="15e51eccc49">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15e321a261e"/>
+      </target>
+      <target file="wall_following_kiri.o" lastModified="15e51ecd0c2">
+         <source file="..\..\..\lib\Source\wall_following_kiri.c" lastModified="15e321a2739"/>
+      </target>
+      <target file="stm32f4xx_exti.o" lastModified="15e51ecc0a3">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_exti.c" lastModified="15e321a25e6"/>
+      </target>
+      <target file="lcd.o" lastModified="15e52446b5b">
+         <source file="..\..\..\lib\Source\lcd.c" lastModified="15e321a26f0"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="15e51ecb9d4">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15e321a25f3"/>
+      </target>
+      <target file="delay.o" lastModified="15e51ecacfa">
+         <source file="..\..\..\lib\Source\delay.c" lastModified="15e321a26bd"/>
+      </target>
+      <target file="timer5.o" lastModified="15e51eccd41">
+         <source file="..\..\..\lib\Source\timer5.c" lastModified="15e321a271c"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="15e51ecae63">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15e321a2624"/>
+      </target>
+      <target file="proximity.o" lastModified="15e51ecb5a1">
+         <source file="..\..\..\lib\Source\proximity.c" lastModified="15e321a2705"/>
+      </target>
+      <target file="adc1.o" lastModified="15e51ecccc8">
+         <source file="..\..\..\lib\Source\adc1.c" lastModified="15e321a26b2"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15e51ecb3ab">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15e321a2611"/>
+      </target>
+      <target file="stm32f4xx_pwr.o" lastModified="15e51ecaf01">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_pwr.c" lastModified="15e321a260a"/>
+      </target>
+      <target file="timer4.o" lastModified="15e51eccb0f">
+         <source file="..\..\..\lib\Source\timer4.c" lastModified="15e321a2716"/>
+      </target>
+      <target file="color_sensor.o" lastModified="15e51ecb6d6">
+         <source file="..\..\..\lib\Source\color_sensor.c" lastModified="15e321a26b7"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="15e51ecb460">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15e321a25e0"/>
+      </target>
+      <target file="stm32f4xx_flash.o" lastModified="15e51ecbacf">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_flash.c" lastModified="15e321a25ed"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="15e51ecb135">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15e321a2571"/>
+      </target>
+      <target file="tombol.o" lastModified="15e51ecb0d7">
+         <source file="..\..\..\lib\Source\tombol.c" lastModified="15e321a2728"/>
+      </target>
+      <target file="printf.o" lastModified="15e51ecb534">
+         <source file="..\..\..\stdio\printf.c" lastModified="15e321a2981"/>
+      </target>
+      <target file="timer2.o" lastModified="15e51ecc380">
+         <source file="..\..\..\lib\Source\timer2.c" lastModified="15e321a2711"/>
+      </target>
+      <target file="exti0.o" lastModified="15e51ecbee4">
+         <source file="..\..\..\lib\Source\exti0.c" lastModified="15e321a26cc"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="15e51ecbfef">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15e321a2604"/>
+      </target>
+      <target file="stm32f4xx_syscfg.o" lastModified="15e51eca77c">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_syscfg.c" lastModified="15e321a2617"/>
+      </target>
+      <target file="jalan_dasar2.o" lastModified="15e52446d26">
+         <source file="..\..\..\lib\Source\jalan_dasar2.c" lastModified="15e321a26df"/>
+      </target>
+      <target file="main.o" lastModified="15e5244a854">
+         <source file="..\..\..\main.c" lastModified="15e5244a341"/>
+      </target>
+      <target file="semihosting.o" lastModified="15e51eca65c">
+         <source file="..\..\..\semihosting\semihosting.c" lastModified="15e321a296d"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15e51ecbb7d">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15e321a2555"/>
+      </target>
+      <target file="wall_following_kanan.o" lastModified="15e51ecc6ab">
+         <source file="..\..\..\lib\Source\wall_following_kanan.c" lastModified="15e321a2733"/>
+      </target>
+   </processor>
+</history>
